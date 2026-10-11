@@ -1,0 +1,3508 @@
+{
+ "municipalities": {
+  "0118": {
+   "name": "Aremark",
+   "county": "01"
+  },
+  "0124": {
+   "name": "Askim",
+   "county": "01"
+  },
+  "0116": {
+   "name": "Berg",
+   "county": "01"
+  },
+  "0113": {
+   "name": "Borge",
+   "county": "01"
+  },
+  "0129": {
+   "name": "Degernes",
+   "county": "01"
+  },
+  "0125": {
+   "name": "Eidsberg",
+   "county": "01"
+  },
+  "0103": {
+   "name": "Fredrikstad",
+   "county": "01"
+  },
+  "0132": {
+   "name": "Glemmen",
+   "county": "01"
+  },
+  "0101": {
+   "name": "Halden",
+   "county": "01"
+  },
+  "0138": {
+   "name": "Hobøl",
+   "county": "01"
+  },
+  "0111": {
+   "name": "Hvaler",
+   "county": "01"
+  },
+  "0117": {
+   "name": "Idd",
+   "county": "01"
+  },
+  "0133": {
+   "name": "Kråkerøy",
+   "county": "01"
+  },
+  "0104": {
+   "name": "Moss",
+   "county": "01"
+  },
+  "0126": {
+   "name": "Mysen",
+   "county": "01"
+  },
+  "0134": {
+   "name": "Onsøy",
+   "county": "01"
+  },
+  "0128": {
+   "name": "Rakkestad",
+   "county": "01"
+  },
+  "0131": {
+   "name": "Rolvsøy",
+   "county": "01"
+  },
+  "0136": {
+   "name": "Rygge",
+   "county": "01"
+  },
+  "0120": {
+   "name": "Rødenes",
+   "county": "01"
+  },
+  "0121": {
+   "name": "Rømskog",
+   "county": "01"
+  },
+  "0135": {
+   "name": "Råde",
+   "county": "01"
+  },
+  "0102": {
+   "name": "Sarpsborg",
+   "county": "01"
+  },
+  "0127": {
+   "name": "Skiptvet",
+   "county": "01"
+  },
+  "0115": {
+   "name": "Skjeberg",
+   "county": "01"
+  },
+  "0123": {
+   "name": "Spydeberg",
+   "county": "01"
+  },
+  "0112": {
+   "name": "Torsnes",
+   "county": "01"
+  },
+  "0122": {
+   "name": "Trøgstad",
+   "county": "01"
+  },
+  "0130": {
+   "name": "Tune",
+   "county": "01"
+  },
+  "0114": {
+   "name": "Varteig",
+   "county": "01"
+  },
+  "0137": {
+   "name": "Våler",
+   "county": "01"
+  },
+  "0119": {
+   "name": "Øymark",
+   "county": "01"
+  },
+  "0218": {
+   "name": "Aker",
+   "county": "02"
+  },
+  "0220": {
+   "name": "Asker",
+   "county": "02"
+  },
+  "0224": {
+   "name": "Aurskog",
+   "county": "02"
+  },
+  "0225": {
+   "name": "Blaker",
+   "county": "02"
+  },
+  "0219": {
+   "name": "Bærum",
+   "county": "02"
+  },
+  "0203": {
+   "name": "Drøbak",
+   "county": "02"
+  },
+  "0237": {
+   "name": "Eidsvoll",
+   "county": "02"
+  },
+  "0229": {
+   "name": "Enebakk",
+   "county": "02"
+  },
+  "0240": {
+   "name": "Feiring",
+   "county": "02"
+  },
+  "0227": {
+   "name": "Fet",
+   "county": "02"
+  },
+  "0215": {
+   "name": "Frogn",
+   "county": "02"
+  },
+  "0234": {
+   "name": "Gjerdrum",
+   "county": "02"
+  },
+  "0239": {
+   "name": "Hurdal",
+   "county": "02"
+  },
+  "0212": {
+   "name": "Kråkstad",
+   "county": "02"
+  },
+  "0232": {
+   "name": "Lillestrøm",
+   "county": "02"
+  },
+  "0230": {
+   "name": "Lørenskog",
+   "county": "02"
+  },
+  "0238": {
+   "name": "Nannestad",
+   "county": "02"
+  },
+  "0236": {
+   "name": "Nes",
+   "county": "02"
+  },
+  "0216": {
+   "name": "Nesodden",
+   "county": "02"
+  },
+  "0233": {
+   "name": "Nittedal",
+   "county": "02"
+  },
+  "0222": {
+   "name": "Nordre Høland",
+   "county": "02"
+  },
+  "0217": {
+   "name": "Oppegård",
+   "county": "02"
+  },
+  "0228": {
+   "name": "Rælingen",
+   "county": "02"
+  },
+  "0223": {
+   "name": "Setskog",
+   "county": "02"
+  },
+  "0231": {
+   "name": "Skedsmo",
+   "county": "02"
+  },
+  "0213": {
+   "name": "Ski",
+   "county": "02"
+  },
+  "0201": {
+   "name": "Son",
+   "county": "02"
+  },
+  "0221": {
+   "name": "Søndre Høland",
+   "county": "02"
+  },
+  "0226": {
+   "name": "Sørum",
+   "county": "02"
+  },
+  "0235": {
+   "name": "Ullensaker",
+   "county": "02"
+  },
+  "0211": {
+   "name": "Vestby",
+   "county": "02"
+  },
+  "0214": {
+   "name": "Ås",
+   "county": "02"
+  },
+  "0301": {
+   "name": "Oslo",
+   "county": "02"
+  },
+  "0438": {
+   "name": "Alvdal",
+   "county": "04"
+  },
+  "0422": {
+   "name": "Brandval",
+   "county": "04"
+  },
+  "0420": {
+   "name": "Eidskog",
+   "county": "04"
+  },
+  "0427": {
+   "name": "Elverum",
+   "county": "04"
+  },
+  "0434": {
+   "name": "Engerdal",
+   "county": "04"
+  },
+  "0439": {
+   "name": "Folldal",
+   "county": "04"
+  },
+  "0413": {
+   "name": "Furnes",
+   "county": "04"
+  },
+  "0423": {
+   "name": "Grue",
+   "county": "04"
+  },
+  "0401": {
+   "name": "Hamar",
+   "county": "04"
+  },
+  "0424": {
+   "name": "Hof",
+   "county": "04"
+  },
+  "0402": {
+   "name": "Kongsvinger",
+   "county": "04"
+  },
+  "0440": {
+   "name": "Kvikne",
+   "county": "04"
+  },
+  "0415": {
+   "name": "Løten",
+   "county": "04"
+  },
+  "0411": {
+   "name": "Nes",
+   "county": "04"
+  },
+  "0418": {
+   "name": "Nord-Odal",
+   "county": "04"
+  },
+  "0435": {
+   "name": "Os",
+   "county": "04"
+  },
+  "0412": {
+   "name": "Ringsaker",
+   "county": "04"
+  },
+  "0416": {
+   "name": "Romedal",
+   "county": "04"
+  },
+  "0431": {
+   "name": "Sollia",
+   "county": "04"
+  },
+  "0417": {
+   "name": "Stange",
+   "county": "04"
+  },
+  "0430": {
+   "name": "Stor-Elvdal",
+   "county": "04"
+  },
+  "0419": {
+   "name": "Sør-Odal",
+   "county": "04"
+  },
+  "0436": {
+   "name": "Tolga",
+   "county": "04"
+  },
+  "0428": {
+   "name": "Trysil",
+   "county": "04"
+  },
+  "0437": {
+   "name": "Tynset",
+   "county": "04"
+  },
+  "0414": {
+   "name": "Vang",
+   "county": "04"
+  },
+  "0421": {
+   "name": "Vinger",
+   "county": "04"
+  },
+  "0426": {
+   "name": "Våler",
+   "county": "04"
+  },
+  "0432": {
+   "name": "Ytre Rendal",
+   "county": "04"
+  },
+  "0433": {
+   "name": "Øvre Rendal",
+   "county": "04"
+  },
+  "0429": {
+   "name": "Åmot",
+   "county": "04"
+  },
+  "0425": {
+   "name": "Åsnes",
+   "county": "04"
+  },
+  "0525": {
+   "name": "Biri",
+   "county": "05"
+  },
+  "0535": {
+   "name": "Brandbu",
+   "county": "05"
+  },
+  "0511": {
+   "name": "Dovre",
+   "county": "05"
+  },
+  "0530": {
+   "name": "Eina",
+   "county": "05"
+  },
+  "0541": {
+   "name": "Etnedal",
+   "county": "05"
+  },
+  "0537": {
+   "name": "Fluberg",
+   "county": "05"
+  },
+  "0524": {
+   "name": "Fåberg",
+   "county": "05"
+  },
+  "0502": {
+   "name": "Gjøvik",
+   "county": "05"
+  },
+  "0534": {
+   "name": "Gran",
+   "county": "05"
+  },
+  "0516": {
+   "name": "Heidal",
+   "county": "05"
+  },
+  "0532": {
+   "name": "Jevnaker",
+   "county": "05"
+  },
+  "0531": {
+   "name": "Kolbu",
+   "county": "05"
+  },
+  "0512": {
+   "name": "Lesja",
+   "county": "05"
+  },
+  "0501": {
+   "name": "Lillehammer",
+   "county": "05"
+  },
+  "0514": {
+   "name": "Lom",
+   "county": "05"
+  },
+  "0533": {
+   "name": "Lunner",
+   "county": "05"
+  },
+  "0542": {
+   "name": "Nord-Aurdal",
+   "county": "05"
+  },
+  "0518": {
+   "name": "Nord-Fron",
+   "county": "05"
+  },
+  "0538": {
+   "name": "Nordre Land",
+   "county": "05"
+  },
+  "0520": {
+   "name": "Ringebu",
+   "county": "05"
+  },
+  "0517": {
+   "name": "Sel",
+   "county": "05"
+  },
+  "0513": {
+   "name": "Skjåk",
+   "county": "05"
+  },
+  "0526": {
+   "name": "Snertingdal",
+   "county": "05"
+  },
+  "0536": {
+   "name": "Søndre Land",
+   "county": "05"
+  },
+  "0540": {
+   "name": "Sør-Aurdal",
+   "county": "05"
+  },
+  "0519": {
+   "name": "Sør-Fron",
+   "county": "05"
+  },
+  "0539": {
+   "name": "Torpa",
+   "county": "05"
+  },
+  "0545": {
+   "name": "Vang",
+   "county": "05"
+  },
+  "0527": {
+   "name": "Vardal",
+   "county": "05"
+  },
+  "0523": {
+   "name": "Vestre Gausdal",
+   "county": "05"
+  },
+  "0543": {
+   "name": "Vestre Slidre",
+   "county": "05"
+  },
+  "0529": {
+   "name": "Vestre Toten",
+   "county": "05"
+  },
+  "0515": {
+   "name": "Vågå",
+   "county": "05"
+  },
+  "0522": {
+   "name": "Østre Gausdal",
+   "county": "05"
+  },
+  "0528": {
+   "name": "Østre Toten",
+   "county": "05"
+  },
+  "0521": {
+   "name": "Øyer",
+   "county": "05"
+  },
+  "0544": {
+   "name": "Øystre Slidre",
+   "county": "05"
+  },
+  "0602": {
+   "name": "Drammen",
+   "county": "06"
+  },
+  "0631": {
+   "name": "Flesberg",
+   "county": "06"
+  },
+  "0615": {
+   "name": "Flå",
+   "county": "06"
+  },
+  "0617": {
+   "name": "Gol",
+   "county": "06"
+  },
+  "0618": {
+   "name": "Hemsedal",
+   "county": "06"
+  },
+  "0620": {
+   "name": "Hol",
+   "county": "06"
+  },
+  "0612": {
+   "name": "Hole",
+   "county": "06"
+  },
+  "0628": {
+   "name": "Hurum",
+   "county": "06"
+  },
+  "0601": {
+   "name": "Hønefoss",
+   "county": "06"
+  },
+  "0604": {
+   "name": "Kongsberg",
+   "county": "06"
+  },
+  "0622": {
+   "name": "Krødsherad",
+   "county": "06"
+  },
+  "0626": {
+   "name": "Lier",
+   "county": "06"
+  },
+  "0623": {
+   "name": "Modum",
+   "county": "06"
+  },
+  "0625": {
+   "name": "Nedre Eiker",
+   "county": "06"
+  },
+  "0616": {
+   "name": "Nes",
+   "county": "06"
+  },
+  "0613": {
+   "name": "Norderhov",
+   "county": "06"
+  },
+  "0633": {
+   "name": "Nore",
+   "county": "06"
+  },
+  "0632": {
+   "name": "Rollag",
+   "county": "06"
+  },
+  "0627": {
+   "name": "Røyken",
+   "county": "06"
+  },
+  "0621": {
+   "name": "Sigdal",
+   "county": "06"
+  },
+  "0611": {
+   "name": "Tyristrand",
+   "county": "06"
+  },
+  "0634": {
+   "name": "Uvdal",
+   "county": "06"
+  },
+  "0629": {
+   "name": "Ytre Sandsvær",
+   "county": "06"
+  },
+  "0624": {
+   "name": "Øvre Eiker",
+   "county": "06"
+  },
+  "0630": {
+   "name": "Øvre Sandsvær",
+   "county": "06"
+  },
+  "0614": {
+   "name": "Ådal",
+   "county": "06"
+  },
+  "0619": {
+   "name": "Ål",
+   "county": "06"
+  },
+  "0719": {
+   "name": "Andebu",
+   "county": "07"
+  },
+  "0717": {
+   "name": "Borre",
+   "county": "07"
+  },
+  "0715": {
+   "name": "Botne",
+   "county": "07"
+  },
+  "0726": {
+   "name": "Brunlanes",
+   "county": "07"
+  },
+  "0727": {
+   "name": "Hedrum",
+   "county": "07"
+  },
+  "0714": {
+   "name": "Hof",
+   "county": "07"
+  },
+  "0702": {
+   "name": "Holmestrand",
+   "county": "07"
+  },
+  "0703": {
+   "name": "Horten",
+   "county": "07"
+  },
+  "0728": {
+   "name": "Lardal",
+   "county": "07"
+  },
+  "0707": {
+   "name": "Larvik",
+   "county": "07"
+  },
+  "0722": {
+   "name": "Nøtterøy",
+   "county": "07"
+  },
+  "0718": {
+   "name": "Ramnes",
+   "county": "07"
+  },
+  "0724": {
+   "name": "Sandar",
+   "county": "07"
+  },
+  "0713": {
+   "name": "Sande",
+   "county": "07"
+  },
+  "0706": {
+   "name": "Sandefjord",
+   "county": "07"
+  },
+  "0721": {
+   "name": "Sem",
+   "county": "07"
+  },
+  "0712": {
+   "name": "Skoger",
+   "county": "07"
+  },
+  "0708": {
+   "name": "Stavern",
+   "county": "07"
+  },
+  "0720": {
+   "name": "Stokke",
+   "county": "07"
+  },
+  "0711": {
+   "name": "Strømm",
+   "county": "07"
+  },
+  "0701": {
+   "name": "Svelvik",
+   "county": "07"
+  },
+  "0725": {
+   "name": "Tjølling",
+   "county": "07"
+  },
+  "0723": {
+   "name": "Tjøme",
+   "county": "07"
+  },
+  "0705": {
+   "name": "Tønsberg",
+   "county": "07"
+  },
+  "0716": {
+   "name": "Våle",
+   "county": "07"
+  },
+  "0704": {
+   "name": "Åsgårdstrand",
+   "county": "07"
+  },
+  "0814": {
+   "name": "Bamble",
+   "county": "08"
+  },
+  "0804": {
+   "name": "Brevik",
+   "county": "08"
+  },
+  "0821": {
+   "name": "Bø",
+   "county": "08"
+  },
+  "0817": {
+   "name": "Drangedal",
+   "county": "08"
+  },
+  "0813": {
+   "name": "Eidanger",
+   "county": "08"
+  },
+  "0831": {
+   "name": "Fyresdal",
+   "county": "08"
+  },
+  "0812": {
+   "name": "Gjerpen",
+   "county": "08"
+  },
+  "0824": {
+   "name": "Gransherad",
+   "county": "08"
+  },
+  "0823": {
+   "name": "Heddal",
+   "county": "08"
+  },
+  "0827": {
+   "name": "Hjartdal",
+   "county": "08"
+  },
+  "0819": {
+   "name": "Holla",
+   "county": "08"
+  },
+  "0825": {
+   "name": "Hovin",
+   "county": "08"
+  },
+  "0801": {
+   "name": "Kragerø",
+   "county": "08"
+  },
+  "0829": {
+   "name": "Kviteseid",
+   "county": "08"
+  },
+  "0802": {
+   "name": "Langesund",
+   "county": "08"
+  },
+  "0820": {
+   "name": "Lunde",
+   "county": "08"
+  },
+  "0833": {
+   "name": "Lårdal",
+   "county": "08"
+  },
+  "0832": {
+   "name": "Mo",
+   "county": "08"
+  },
+  "0830": {
+   "name": "Nissedal",
+   "county": "08"
+  },
+  "0807": {
+   "name": "Notodden",
+   "county": "08"
+  },
+  "0805": {
+   "name": "Porsgrunn",
+   "county": "08"
+  },
+  "0835": {
+   "name": "Rauland",
+   "county": "08"
+  },
+  "0816": {
+   "name": "Sannidal",
+   "county": "08"
+  },
+  "0822": {
+   "name": "Sauherad",
+   "county": "08"
+  },
+  "0828": {
+   "name": "Seljord",
+   "county": "08"
+  },
+  "0811": {
+   "name": "Siljan",
+   "county": "08"
+  },
+  "0806": {
+   "name": "Skien",
+   "county": "08"
+  },
+  "0815": {
+   "name": "Skåtøy",
+   "county": "08"
+  },
+  "0818": {
+   "name": "Solum",
+   "county": "08"
+  },
+  "0803": {
+   "name": "Stathelle",
+   "county": "08"
+  },
+  "0826": {
+   "name": "Tinn",
+   "county": "08"
+  },
+  "0834": {
+   "name": "Vinje",
+   "county": "08"
+  },
+  "0903": {
+   "name": "Arendal",
+   "county": "09"
+  },
+  "0918": {
+   "name": "Austre Moland",
+   "county": "09"
+  },
+  "0928": {
+   "name": "Birkenes",
+   "county": "09"
+  },
+  "0938": {
+   "name": "Bygland",
+   "county": "09"
+  },
+  "0941": {
+   "name": "Bykle",
+   "county": "09"
+  },
+  "0915": {
+   "name": "Dypvåg",
+   "county": "09"
+  },
+  "0925": {
+   "name": "Eide",
+   "county": "09"
+  },
+  "0937": {
+   "name": "Evje",
+   "county": "09"
+  },
+  "0923": {
+   "name": "Fjære",
+   "county": "09"
+  },
+  "0916": {
+   "name": "Flosta",
+   "county": "09"
+  },
+  "0919": {
+   "name": "Froland",
+   "county": "09"
+  },
+  "0911": {
+   "name": "Gjerstad",
+   "county": "09"
+  },
+  "0930": {
+   "name": "Gjøvdal",
+   "county": "09"
+  },
+  "0904": {
+   "name": "Grimstad",
+   "county": "09"
+  },
+  "0933": {
+   "name": "Herefoss",
+   "county": "09"
+  },
+  "0922": {
+   "name": "Hisøy",
+   "county": "09"
+  },
+  "0914": {
+   "name": "Holt",
+   "county": "09"
+  },
+  "0936": {
+   "name": "Hornnes",
+   "county": "09"
+  },
+  "0939": {
+   "name": "Hylestad",
+   "county": "09"
+  },
+  "0927": {
+   "name": "Høvåg",
+   "county": "09"
+  },
+  "0935": {
+   "name": "Iveland",
+   "county": "09"
+  },
+  "0924": {
+   "name": "Landvik",
+   "county": "09"
+  },
+  "0905": {
+   "name": "Lillesand",
+   "county": "09"
+  },
+  "0932": {
+   "name": "Mykland",
+   "county": "09"
+  },
+  "0901": {
+   "name": "Risør",
+   "county": "09"
+  },
+  "0917": {
+   "name": "Stokken",
+   "county": "09"
+  },
+  "0913": {
+   "name": "Søndeled",
+   "county": "09"
+  },
+  "0931": {
+   "name": "Tovdal",
+   "county": "09"
+  },
+  "0921": {
+   "name": "Tromøy",
+   "county": "09"
+  },
+  "0902": {
+   "name": "Tvedestrand",
+   "county": "09"
+  },
+  "0940": {
+   "name": "Valle",
+   "county": "09"
+  },
+  "0934": {
+   "name": "Vegusdal",
+   "county": "09"
+  },
+  "0912": {
+   "name": "Vegårshei",
+   "county": "09"
+  },
+  "0926": {
+   "name": "Vestre Moland",
+   "county": "09"
+  },
+  "0920": {
+   "name": "Øyestad",
+   "county": "09"
+  },
+  "0929": {
+   "name": "Åmli",
+   "county": "09"
+  },
+  "1031": {
+   "name": "Austad",
+   "county": "10"
+  },
+  "1045": {
+   "name": "Bakke",
+   "county": "10"
+  },
+  "1024": {
+   "name": "Bjelland",
+   "county": "10"
+  },
+  "1035": {
+   "name": "Eiken",
+   "county": "10"
+  },
+  "1003": {
+   "name": "Farsund",
+   "county": "10"
+  },
+  "1038": {
+   "name": "Feda",
+   "county": "10"
+  },
+  "1023": {
+   "name": "Finsland",
+   "county": "10"
+  },
+  "1036": {
+   "name": "Fjotland",
+   "county": "10"
+  },
+  "1004": {
+   "name": "Flekkefjord",
+   "county": "10"
+  },
+  "1017": {
+   "name": "Greipstad",
+   "county": "10"
+  },
+  "1025": {
+   "name": "Grindheim",
+   "county": "10"
+  },
+  "1044": {
+   "name": "Gyland",
+   "county": "10"
+  },
+  "1019": {
+   "name": "Halse og Harkmark",
+   "county": "10"
+  },
+  "1039": {
+   "name": "Herad",
+   "county": "10"
+  },
+  "1042": {
+   "name": "Hidra",
+   "county": "10"
+  },
+  "1020": {
+   "name": "Holum",
+   "county": "10"
+  },
+  "1034": {
+   "name": "Hægebostad",
+   "county": "10"
+  },
+  "1015": {
+   "name": "Hægeland",
+   "county": "10"
+  },
+  "1027": {
+   "name": "Konsmo",
+   "county": "10"
+  },
+  "1001": {
+   "name": "Kristiansand",
+   "county": "10"
+  },
+  "1037": {
+   "name": "Kvinesdal",
+   "county": "10"
+  },
+  "1033": {
+   "name": "Kvås",
+   "county": "10"
+  },
+  "1022": {
+   "name": "Laudal",
+   "county": "10"
+  },
+  "1041": {
+   "name": "Lista",
+   "county": "10"
+  },
+  "1032": {
+   "name": "Lyngdal",
+   "county": "10"
+  },
+  "1002": {
+   "name": "Mandal",
+   "county": "10"
+  },
+  "1043": {
+   "name": "Nes",
+   "county": "10"
+  },
+  "1012": {
+   "name": "Oddernes",
+   "county": "10"
+  },
+  "1011": {
+   "name": "Randesund",
+   "county": "10"
+  },
+  "1030": {
+   "name": "Spangereid",
+   "county": "10"
+  },
+  "1040": {
+   "name": "Spind",
+   "county": "10"
+  },
+  "1018": {
+   "name": "Søgne",
+   "county": "10"
+  },
+  "1029": {
+   "name": "Sør-Audnedal",
+   "county": "10"
+  },
+  "1046": {
+   "name": "Tonstad",
+   "county": "10"
+  },
+  "1013": {
+   "name": "Tveit",
+   "county": "10"
+  },
+  "1014": {
+   "name": "Vennesla",
+   "county": "10"
+  },
+  "1028": {
+   "name": "Vigmostad",
+   "county": "10"
+  },
+  "1047": {
+   "name": "Øvre Sirdal",
+   "county": "10"
+  },
+  "1016": {
+   "name": "Øvrebø",
+   "county": "10"
+  },
+  "1021": {
+   "name": "Øyslebø",
+   "county": "10"
+  },
+  "1026": {
+   "name": "Åseral",
+   "county": "10"
+  },
+  "1147": {
+   "name": "Avaldsnes",
+   "county": "11"
+  },
+  "1114": {
+   "name": "Bjerkreim",
+   "county": "11"
+  },
+  "1145": {
+   "name": "Bokn",
+   "county": "11"
+  },
+  "1101": {
+   "name": "Egersund",
+   "county": "11"
+  },
+  "1116": {
+   "name": "Eigersund herred",
+   "county": "11"
+  },
+  "1137": {
+   "name": "Erfjord",
+   "county": "11"
+  },
+  "1141": {
+   "name": "Finnøy",
+   "county": "11"
+  },
+  "1132": {
+   "name": "Fister",
+   "county": "11"
+  },
+  "1129": {
+   "name": "Forsand",
+   "county": "11"
+  },
+  "1122": {
+   "name": "Gjesdal",
+   "county": "11"
+  },
+  "1106": {
+   "name": "Haugesund",
+   "county": "11"
+  },
+  "1115": {
+   "name": "Helleland",
+   "county": "11"
+  },
+  "1113": {
+   "name": "Heskestad",
+   "county": "11"
+  },
+  "1126": {
+   "name": "Hetland",
+   "county": "11"
+  },
+  "1133": {
+   "name": "Hjelmeland",
+   "county": "11"
+  },
+  "1128": {
+   "name": "Høle",
+   "county": "11"
+  },
+  "1123": {
+   "name": "Høyland",
+   "county": "11"
+  },
+  "1156": {
+   "name": "Imsland",
+   "county": "11"
+  },
+  "1138": {
+   "name": "Jelsa",
+   "county": "11"
+  },
+  "1120": {
+   "name": "Klepp",
+   "county": "11"
+  },
+  "1105": {
+   "name": "Kopervik",
+   "county": "11"
+  },
+  "1144": {
+   "name": "Kvitsøy",
+   "county": "11"
+  },
+  "1112": {
+   "name": "Lund",
+   "county": "11"
+  },
+  "1125": {
+   "name": "Madla",
+   "county": "11"
+  },
+  "1143": {
+   "name": "Mosterøy",
+   "county": "11"
+  },
+  "1139": {
+   "name": "Nedstrand",
+   "county": "11"
+  },
+  "1119": {
+   "name": "Nærbø",
+   "county": "11"
+  },
+  "1117": {
+   "name": "Ogna",
+   "county": "11"
+  },
+  "1127": {
+   "name": "Randaberg",
+   "county": "11"
+  },
+  "1142": {
+   "name": "Rennesøy",
+   "county": "11"
+  },
+  "1136": {
+   "name": "Sand",
+   "county": "11"
+  },
+  "1158": {
+   "name": "Sandeid",
+   "county": "11"
+  },
+  "1102": {
+   "name": "Sandnes",
+   "county": "11"
+  },
+  "1135": {
+   "name": "Sauda",
+   "county": "11"
+  },
+  "1140": {
+   "name": "Sjernarøy",
+   "county": "11"
+  },
+  "1154": {
+   "name": "Skjold",
+   "county": "11"
+  },
+  "1150": {
+   "name": "Skudenes",
+   "county": "11"
+  },
+  "1104": {
+   "name": "Skudeneshavn",
+   "county": "11"
+  },
+  "1153": {
+   "name": "Skåre",
+   "county": "11"
+  },
+  "1111": {
+   "name": "Sokndal",
+   "county": "11"
+  },
+  "1124": {
+   "name": "Sola",
+   "county": "11"
+  },
+  "1148": {
+   "name": "Stangaland",
+   "county": "11"
+  },
+  "1103": {
+   "name": "Stavanger",
+   "county": "11"
+  },
+  "1130": {
+   "name": "Strand",
+   "county": "11"
+  },
+  "1134": {
+   "name": "Suldal",
+   "county": "11"
+  },
+  "1121": {
+   "name": "Time",
+   "county": "11"
+  },
+  "1152": {
+   "name": "Torvastad",
+   "county": "11"
+  },
+  "1146": {
+   "name": "Tysvær",
+   "county": "11"
+  },
+  "1151": {
+   "name": "Utsira",
+   "county": "11"
+  },
+  "1118": {
+   "name": "Varhaug",
+   "county": "11"
+  },
+  "1155": {
+   "name": "Vats",
+   "county": "11"
+  },
+  "1157": {
+   "name": "Vikedal",
+   "county": "11"
+  },
+  "1149": {
+   "name": "Åkra",
+   "county": "11"
+  },
+  "1131": {
+   "name": "Årdal",
+   "county": "11"
+  },
+  "1257": {
+   "name": "Alversund",
+   "county": "12"
+  },
+  "1247": {
+   "name": "Askøy",
+   "county": "12"
+  },
+  "1244": {
+   "name": "Austevoll",
+   "county": "12"
+  },
+  "1264": {
+   "name": "Austrheim",
+   "county": "12"
+  },
+  "1220": {
+   "name": "Bremnes",
+   "county": "12"
+  },
+  "1251": {
+   "name": "Bruvik",
+   "county": "12"
+  },
+  "1219": {
+   "name": "Bømlo",
+   "county": "12"
+  },
+  "1232": {
+   "name": "Eidfjord",
+   "county": "12"
+  },
+  "1211": {
+   "name": "Etne",
+   "county": "12"
+  },
+  "1237": {
+   "name": "Evanger",
+   "county": "12"
+  },
+  "1249": {
+   "name": "Fana",
+   "county": "12"
+  },
+  "1265": {
+   "name": "Fedje",
+   "county": "12"
+  },
+  "1222": {
+   "name": "Fitjar",
+   "county": "12"
+  },
+  "1213": {
+   "name": "Fjelberg",
+   "county": "12"
+  },
+  "1246": {
+   "name": "Fjell",
+   "county": "12"
+  },
+  "1241": {
+   "name": "Fusa",
+   "county": "12"
+  },
+  "1234": {
+   "name": "Granvin",
+   "county": "12"
+  },
+  "1254": {
+   "name": "Hamre",
+   "county": "12"
+  },
+  "1250": {
+   "name": "Haus",
+   "county": "12"
+  },
+  "1258": {
+   "name": "Herdla",
+   "county": "12"
+  },
+  "1259": {
+   "name": "Hjelme",
+   "county": "12"
+  },
+  "1260": {
+   "name": "Hordabø",
+   "county": "12"
+  },
+  "1253": {
+   "name": "Hosanger",
+   "county": "12"
+  },
+  "1239": {
+   "name": "Hålandsdal",
+   "county": "12"
+  },
+  "1227": {
+   "name": "Jondal",
+   "county": "12"
+  },
+  "1231": {
+   "name": "Kinsarvik",
+   "county": "12"
+  },
+  "1238": {
+   "name": "Kvam",
+   "county": "12"
+  },
+  "1224": {
+   "name": "Kvinnherad",
+   "county": "12"
+  },
+  "1248": {
+   "name": "Laksevåg",
+   "county": "12"
+  },
+  "1263": {
+   "name": "Lindås",
+   "county": "12"
+  },
+  "1261": {
+   "name": "Manger",
+   "county": "12"
+  },
+  "1266": {
+   "name": "Masfjorden",
+   "county": "12"
+  },
+  "1252": {
+   "name": "Modalen",
+   "county": "12"
+  },
+  "1218": {
+   "name": "Moster",
+   "county": "12"
+  },
+  "1256": {
+   "name": "Mæland",
+   "county": "12"
+  },
+  "1228": {
+   "name": "Odda",
+   "county": "12"
+  },
+  "1243": {
+   "name": "Os",
+   "county": "12"
+  },
+  "1229": {
+   "name": "Røldal",
+   "county": "12"
+  },
+  "1242": {
+   "name": "Samnanger",
+   "county": "12"
+  },
+  "1212": {
+   "name": "Skånevik",
+   "county": "12"
+  },
+  "1221": {
+   "name": "Stord",
+   "county": "12"
+  },
+  "1226": {
+   "name": "Strandebarm",
+   "county": "12"
+  },
+  "1240": {
+   "name": "Strandvik",
+   "county": "12"
+  },
+  "1245": {
+   "name": "Sund",
+   "county": "12"
+  },
+  "1216": {
+   "name": "Sveio",
+   "county": "12"
+  },
+  "1262": {
+   "name": "Sæbø",
+   "county": "12"
+  },
+  "1223": {
+   "name": "Tysnes",
+   "county": "12"
+  },
+  "1230": {
+   "name": "Ullensvang",
+   "county": "12"
+  },
+  "1233": {
+   "name": "Ulvik",
+   "county": "12"
+  },
+  "1217": {
+   "name": "Valestrand",
+   "county": "12"
+  },
+  "1225": {
+   "name": "Varaldsøy",
+   "county": "12"
+  },
+  "1215": {
+   "name": "Vikebygd",
+   "county": "12"
+  },
+  "1235": {
+   "name": "Voss",
+   "county": "12"
+  },
+  "1236": {
+   "name": "Vossestrand",
+   "county": "12"
+  },
+  "1214": {
+   "name": "Ølen",
+   "county": "12"
+  },
+  "1255": {
+   "name": "Åsane",
+   "county": "12"
+  },
+  "1301": {
+   "name": "Bergen",
+   "county": "12"
+  },
+  "1428": {
+   "name": "Askvoll",
+   "county": "14"
+  },
+  "1421": {
+   "name": "Aurland",
+   "county": "14"
+  },
+  "1418": {
+   "name": "Balestrand",
+   "county": "14"
+  },
+  "1423": {
+   "name": "Borgund",
+   "county": "14"
+  },
+  "1446": {
+   "name": "Breim",
+   "county": "14"
+  },
+  "1414": {
+   "name": "Brekke",
+   "county": "14"
+  },
+  "1438": {
+   "name": "Bremanger",
+   "county": "14"
+  },
+  "1436": {
+   "name": "Bru",
+   "county": "14"
+  },
+  "1442": {
+   "name": "Davik",
+   "county": "14"
+  },
+  "1443": {
+   "name": "Eid",
+   "county": "14"
+  },
+  "1435": {
+   "name": "Eikefjord",
+   "county": "14"
+  },
+  "1429": {
+   "name": "Fjaler",
+   "county": "14"
+  },
+  "1401": {
+   "name": "Florø",
+   "county": "14"
+  },
+  "1432": {
+   "name": "Førde",
+   "county": "14"
+  },
+  "1430": {
+   "name": "Gaular",
+   "county": "14"
+  },
+  "1445": {
+   "name": "Gloppen",
+   "county": "14"
+  },
+  "1411": {
+   "name": "Gulen",
+   "county": "14"
+  },
+  "1425": {
+   "name": "Hafslo",
+   "county": "14"
+  },
+  "1444": {
+   "name": "Hornindal",
+   "county": "14"
+  },
+  "1413": {
+   "name": "Hyllestad",
+   "county": "14"
+  },
+  "1447": {
+   "name": "Innvik",
+   "county": "14"
+  },
+  "1427": {
+   "name": "Jostedal",
+   "county": "14"
+  },
+  "1431": {
+   "name": "Jølster",
+   "county": "14"
+  },
+  "1437": {
+   "name": "Kinn",
+   "county": "14"
+  },
+  "1416": {
+   "name": "Kyrkjebø",
+   "county": "14"
+  },
+  "1415": {
+   "name": "Lavik",
+   "county": "14"
+  },
+  "1419": {
+   "name": "Leikanger",
+   "county": "14"
+  },
+  "1426": {
+   "name": "Luster",
+   "county": "14"
+  },
+  "1422": {
+   "name": "Lærdal",
+   "county": "14"
+  },
+  "1433": {
+   "name": "Naustdal",
+   "county": "14"
+  },
+  "1440": {
+   "name": "Nord-Vågsøy",
+   "county": "14"
+  },
+  "1441": {
+   "name": "Selje",
+   "county": "14"
+  },
+  "1420": {
+   "name": "Sogndal",
+   "county": "14"
+  },
+  "1412": {
+   "name": "Solund",
+   "county": "14"
+  },
+  "1448": {
+   "name": "Stryn",
+   "county": "14"
+  },
+  "1439": {
+   "name": "Sør-Vågsøy",
+   "county": "14"
+  },
+  "1434": {
+   "name": "Vevring",
+   "county": "14"
+  },
+  "1417": {
+   "name": "Vik",
+   "county": "14"
+  },
+  "1424": {
+   "name": "Årdal",
+   "county": "14"
+  },
+  "1569": {
+   "name": "Aure",
+   "county": "15"
+  },
+  "1544": {
+   "name": "Bolsøy",
+   "county": "15"
+  },
+  "1531": {
+   "name": "Borgund",
+   "county": "15"
+  },
+  "1574": {
+   "name": "Brattvær",
+   "county": "15"
+  },
+  "1554": {
+   "name": "Bremsnes",
+   "county": "15"
+  },
+  "1549": {
+   "name": "Bud",
+   "county": "15"
+  },
+  "1518": {
+   "name": "Dalsfjord",
+   "county": "15"
+  },
+  "1573": {
+   "name": "Edøy",
+   "county": "15"
+  },
+  "1538": {
+   "name": "Eid",
+   "county": "15"
+  },
+  "1551": {
+   "name": "Eide",
+   "county": "15"
+  },
+  "1542": {
+   "name": "Eresfjord og Vistdal",
+   "county": "15"
+  },
+  "1556": {
+   "name": "Frei",
+   "county": "15"
+  },
+  "1548": {
+   "name": "Fræna",
+   "county": "15"
+  },
+  "1532": {
+   "name": "Giske",
+   "county": "15"
+  },
+  "1557": {
+   "name": "Gjemnes",
+   "county": "15"
+  },
+  "1555": {
+   "name": "Grip",
+   "county": "15"
+  },
+  "1539": {
+   "name": "Grytten",
+   "county": "15"
+  },
+  "1571": {
+   "name": "Halsa",
+   "county": "15"
+  },
+  "1534": {
+   "name": "Haram",
+   "county": "15"
+  },
+  "1517": {
+   "name": "Hareid",
+   "county": "15"
+  },
+  "1540": {
+   "name": "Hen",
+   "county": "15"
+  },
+  "1515": {
+   "name": "Herøy",
+   "county": "15"
+  },
+  "1522": {
+   "name": "Hjørundfjord",
+   "county": "15"
+  },
+  "1575": {
+   "name": "Hopen",
+   "county": "15"
+  },
+  "1550": {
+   "name": "Hustad",
+   "county": "15"
+  },
+  "1552": {
+   "name": "Kornstad",
+   "county": "15"
+  },
+  "1503": {
+   "name": "Kristiansund",
+   "county": "15"
+  },
+  "1553": {
+   "name": "Kvernes",
+   "county": "15"
+  },
+  "1502": {
+   "name": "Molde",
+   "county": "15"
+  },
+  "1543": {
+   "name": "Nesset",
+   "county": "15"
+  },
+  "1547": {
+   "name": "Nord-Aukra",
+   "county": "15"
+  },
+  "1524": {
+   "name": "Norddal",
+   "county": "15"
+  },
+  "1567": {
+   "name": "Rindal",
+   "county": "15"
+  },
+  "1513": {
+   "name": "Rovde",
+   "county": "15"
+  },
+  "1514": {
+   "name": "Sande",
+   "county": "15"
+  },
+  "1546": {
+   "name": "Sandøy",
+   "county": "15"
+  },
+  "1529": {
+   "name": "Skodje",
+   "county": "15"
+  },
+  "1564": {
+   "name": "Stangvik",
+   "county": "15"
+  },
+  "1568": {
+   "name": "Stemshaug",
+   "county": "15"
+  },
+  "1526": {
+   "name": "Stordal",
+   "county": "15"
+  },
+  "1525": {
+   "name": "Stranda",
+   "county": "15"
+  },
+  "1559": {
+   "name": "Straumsnes",
+   "county": "15"
+  },
+  "1563": {
+   "name": "Sunndal",
+   "county": "15"
+  },
+  "1523": {
+   "name": "Sunnylven",
+   "county": "15"
+  },
+  "1566": {
+   "name": "Surnadal",
+   "county": "15"
+  },
+  "1528": {
+   "name": "Sykkylven",
+   "county": "15"
+  },
+  "1512": {
+   "name": "Syvde",
+   "county": "15"
+  },
+  "1545": {
+   "name": "Sør-Aukra",
+   "county": "15"
+  },
+  "1560": {
+   "name": "Tingvoll",
+   "county": "15"
+  },
+  "1536": {
+   "name": "Tresfjord",
+   "county": "15"
+  },
+  "1572": {
+   "name": "Tustna",
+   "county": "15"
+  },
+  "1516": {
+   "name": "Ulstein",
+   "county": "15"
+  },
+  "1570": {
+   "name": "Valsøyfjord",
+   "county": "15"
+  },
+  "1511": {
+   "name": "Vanylven",
+   "county": "15"
+  },
+  "1521": {
+   "name": "Vartdal",
+   "county": "15"
+  },
+  "1530": {
+   "name": "Vatne",
+   "county": "15"
+  },
+  "1535": {
+   "name": "Vestnes",
+   "county": "15"
+  },
+  "1541": {
+   "name": "Veøy",
+   "county": "15"
+  },
+  "1533": {
+   "name": "Vigra",
+   "county": "15"
+  },
+  "1519": {
+   "name": "Volda",
+   "county": "15"
+  },
+  "1537": {
+   "name": "Voll",
+   "county": "15"
+  },
+  "1561": {
+   "name": "Øksendal",
+   "county": "15"
+  },
+  "1558": {
+   "name": "Øre",
+   "county": "15"
+  },
+  "1527": {
+   "name": "Ørskog",
+   "county": "15"
+  },
+  "1520": {
+   "name": "Ørsta",
+   "county": "15"
+  },
+  "1501": {
+   "name": "Ålesund",
+   "county": "15"
+  },
+  "1562": {
+   "name": "Ålvundeid",
+   "county": "15"
+  },
+  "1565": {
+   "name": "Åsskard",
+   "county": "15"
+  },
+  "1622": {
+   "name": "Agdenes",
+   "county": "16"
+  },
+  "1627": {
+   "name": "Bjugn",
+   "county": "16"
+  },
+  "1642": {
+   "name": "Brekken",
+   "county": "16"
+  },
+  "1647": {
+   "name": "Budal",
+   "county": "16"
+  },
+  "1656": {
+   "name": "Buvik",
+   "county": "16"
+  },
+  "1655": {
+   "name": "Byneset",
+   "county": "16"
+  },
+  "1658": {
+   "name": "Børsa",
+   "county": "16"
+  },
+  "1616": {
+   "name": "Fillan",
+   "county": "16"
+  },
+  "1652": {
+   "name": "Flå",
+   "county": "16"
+  },
+  "1659": {
+   "name": "Geitastrand",
+   "county": "16"
+  },
+  "1643": {
+   "name": "Glåmos",
+   "county": "16"
+  },
+  "1645": {
+   "name": "Haltdalen",
+   "county": "16"
+  },
+  "1614": {
+   "name": "Heim",
+   "county": "16"
+  },
+  "1612": {
+   "name": "Hemne",
+   "county": "16"
+  },
+  "1617": {
+   "name": "Hitra",
+   "county": "16"
+  },
+  "1650": {
+   "name": "Horg",
+   "county": "16"
+  },
+  "1651": {
+   "name": "Hølonda",
+   "county": "16"
+  },
+  "1629": {
+   "name": "Jøssund",
+   "county": "16"
+  },
+  "1662": {
+   "name": "Klæbu",
+   "county": "16"
+  },
+  "1618": {
+   "name": "Kvenvær",
+   "county": "16"
+  },
+  "1654": {
+   "name": "Leinstrand",
+   "county": "16"
+  },
+  "1623": {
+   "name": "Lensvik",
+   "county": "16"
+  },
+  "1663": {
+   "name": "Malvik",
+   "county": "16"
+  },
+  "1636": {
+   "name": "Meldal",
+   "county": "16"
+  },
+  "1653": {
+   "name": "Melhus",
+   "county": "16"
+  },
+  "1628": {
+   "name": "Nes",
+   "county": "16"
+  },
+  "1620": {
+   "name": "Nord-Frøya",
+   "county": "16"
+  },
+  "1634": {
+   "name": "Opdal",
+   "county": "16"
+  },
+  "1639": {
+   "name": "Orkanger",
+   "county": "16"
+  },
+  "1638": {
+   "name": "Orkdal",
+   "county": "16"
+  },
+  "1637": {
+   "name": "Orkland",
+   "county": "16"
+  },
+  "1633": {
+   "name": "Osen",
+   "county": "16"
+  },
+  "1635": {
+   "name": "Rennebu",
+   "county": "16"
+  },
+  "1624": {
+   "name": "Rissa",
+   "county": "16"
+  },
+  "1632": {
+   "name": "Roan",
+   "county": "16"
+  },
+  "1640": {
+   "name": "Røros",
+   "county": "16"
+  },
+  "1641": {
+   "name": "Røros Landdistrikt",
+   "county": "16"
+  },
+  "1615": {
+   "name": "Sandstad",
+   "county": "16"
+  },
+  "1664": {
+   "name": "Selbu",
+   "county": "16"
+  },
+  "1646": {
+   "name": "Singsås",
+   "county": "16"
+  },
+  "1657": {
+   "name": "Skaun",
+   "county": "16"
+  },
+  "1613": {
+   "name": "Snillfjord",
+   "county": "16"
+  },
+  "1649": {
+   "name": "Soknedal",
+   "county": "16"
+  },
+  "1625": {
+   "name": "Stadsbygd",
+   "county": "16"
+  },
+  "1626": {
+   "name": "Stjørna",
+   "county": "16"
+  },
+  "1631": {
+   "name": "Stoksund",
+   "county": "16"
+  },
+  "1660": {
+   "name": "Strinda",
+   "county": "16"
+  },
+  "1648": {
+   "name": "Støren",
+   "county": "16"
+  },
+  "1619": {
+   "name": "Sør-Frøya",
+   "county": "16"
+  },
+  "1661": {
+   "name": "Tiller",
+   "county": "16"
+  },
+  "1601": {
+   "name": "Trondheim",
+   "county": "16"
+  },
+  "1665": {
+   "name": "Tydal",
+   "county": "16"
+  },
+  "1611": {
+   "name": "Vinje",
+   "county": "16"
+  },
+  "1621": {
+   "name": "Ørland",
+   "county": "16"
+  },
+  "1630": {
+   "name": "Aa",
+   "county": "16"
+  },
+  "1644": {
+   "name": "Ålen",
+   "county": "16"
+  },
+  "1727": {
+   "name": "Beitstad",
+   "county": "17"
+  },
+  "1733": {
+   "name": "Egge",
+   "county": "17"
+  },
+  "1749": {
+   "name": "Flatanger",
+   "county": "17"
+  },
+  "1753": {
+   "name": "Foldereid",
+   "county": "17"
+  },
+  "1748": {
+   "name": "Fosnes",
+   "county": "17"
+  },
+  "1720": {
+   "name": "Frol",
+   "county": "17"
+  },
+  "1717": {
+   "name": "Frosta",
+   "county": "17"
+  },
+  "1754": {
+   "name": "Gravvik",
+   "county": "17"
+  },
+  "1742": {
+   "name": "Grong",
+   "county": "17"
+  },
+  "1741": {
+   "name": "Harran",
+   "county": "17"
+  },
+  "1712": {
+   "name": "Hegra",
+   "county": "17"
+  },
+  "1743": {
+   "name": "Høylandet",
+   "county": "17"
+  },
+  "1729": {
+   "name": "Inderøy",
+   "county": "17"
+  },
+  "1746": {
+   "name": "Klinga",
+   "county": "17"
+  },
+  "1752": {
+   "name": "Kolvereid",
+   "county": "17"
+  },
+  "1735": {
+   "name": "Kvam",
+   "county": "17"
+  },
+  "1755": {
+   "name": "Leka",
+   "county": "17"
+  },
+  "1718": {
+   "name": "Leksvik",
+   "county": "17"
+  },
+  "1701": {
+   "name": "Levanger",
+   "county": "17"
+  },
+  "1713": {
+   "name": "Lånke",
+   "county": "17"
+  },
+  "1726": {
+   "name": "Malm",
+   "county": "17"
+  },
+  "1711": {
+   "name": "Meråker",
+   "county": "17"
+  },
+  "1723": {
+   "name": "Mosvik",
+   "county": "17"
+  },
+  "1725": {
+   "name": "Namdalseid",
+   "county": "17"
+  },
+  "1703": {
+   "name": "Namsos",
+   "county": "17"
+  },
+  "1740": {
+   "name": "Namsskogan",
+   "county": "17"
+  },
+  "1738": {
+   "name": "Nordli",
+   "county": "17"
+  },
+  "1751": {
+   "name": "Nærøy",
+   "county": "17"
+  },
+  "1732": {
+   "name": "Ogndal",
+   "county": "17"
+  },
+  "1747": {
+   "name": "Otterøy",
+   "county": "17"
+  },
+  "1744": {
+   "name": "Overhalla",
+   "county": "17"
+  },
+  "1730": {
+   "name": "Røra",
+   "county": "17"
+  },
+  "1739": {
+   "name": "Røyrvik",
+   "county": "17"
+  },
+  "1728": {
+   "name": "Sandvollan",
+   "county": "17"
+  },
+  "1715": {
+   "name": "Skatval",
+   "county": "17"
+  },
+  "1719": {
+   "name": "Skogn",
+   "county": "17"
+  },
+  "1736": {
+   "name": "Snåsa",
+   "county": "17"
+  },
+  "1731": {
+   "name": "Sparbu",
+   "county": "17"
+  },
+  "1702": {
+   "name": "Steinkjer",
+   "county": "17"
+  },
+  "1714": {
+   "name": "Stjørdal",
+   "county": "17"
+  },
+  "1734": {
+   "name": "Stod",
+   "county": "17"
+  },
+  "1737": {
+   "name": "Sørli",
+   "county": "17"
+  },
+  "1745": {
+   "name": "Vemundvik",
+   "county": "17"
+  },
+  "1721": {
+   "name": "Verdal",
+   "county": "17"
+  },
+  "1724": {
+   "name": "Verran",
+   "county": "17"
+  },
+  "1750": {
+   "name": "Vikna",
+   "county": "17"
+  },
+  "1722": {
+   "name": "Ytterøy",
+   "county": "17"
+  },
+  "1716": {
+   "name": "Åsen",
+   "county": "17"
+  },
+  "1820": {
+   "name": "Alstahaug",
+   "county": "18"
+  },
+  "1873": {
+   "name": "Andenes",
+   "county": "18"
+  },
+  "1855": {
+   "name": "Ankenes",
+   "county": "18"
+  },
+  "1854": {
+   "name": "Ballangen",
+   "county": "18"
+  },
+  "1839": {
+   "name": "Beiarn",
+   "county": "18"
+  },
+  "1811": {
+   "name": "Bindal",
+   "county": "18"
+  },
+  "1871": {
+   "name": "Bjørnskinn",
+   "county": "18"
+  },
+  "1843": {
+   "name": "Bodin",
+   "county": "18"
+  },
+  "1804": {
+   "name": "Bodø",
+   "county": "18"
+  },
+  "1862": {
+   "name": "Borge",
+   "county": "18"
+  },
+  "1814": {
+   "name": "Brønnøy",
+   "county": "18"
+  },
+  "1801": {
+   "name": "Brønnøysund",
+   "county": "18"
+  },
+  "1860": {
+   "name": "Buksnes",
+   "county": "18"
+  },
+  "1867": {
+   "name": "Bø",
+   "county": "18"
+  },
+  "1823": {
+   "name": "Drevja",
+   "county": "18"
+  },
+  "1872": {
+   "name": "Dverberg",
+   "county": "18"
+  },
+  "1827": {
+   "name": "Dønnes",
+   "county": "18"
+  },
+  "1829": {
+   "name": "Elsfjord",
+   "county": "18"
+  },
+  "1853": {
+   "name": "Evenes",
+   "county": "18"
+  },
+  "1841": {
+   "name": "Fauske",
+   "county": "18"
+  },
+  "1859": {
+   "name": "Flakstad",
+   "county": "18"
+  },
+  "1838": {
+   "name": "Gildeskål",
+   "county": "18"
+  },
+  "1864": {
+   "name": "Gimsøy",
+   "county": "18"
+  },
+  "1825": {
+   "name": "Grane",
+   "county": "18"
+  },
+  "1866": {
+   "name": "Hadsel",
+   "county": "18"
+  },
+  "1849": {
+   "name": "Hamarøy",
+   "county": "18"
+  },
+  "1826": {
+   "name": "Hattfjelldal",
+   "county": "18"
+  },
+  "1832": {
+   "name": "Hemnes",
+   "county": "18"
+  },
+  "1818": {
+   "name": "Herøy",
+   "county": "18"
+  },
+  "1861": {
+   "name": "Hol",
+   "county": "18"
+  },
+  "1844": {
+   "name": "Kjerringøy",
+   "county": "18"
+  },
+  "1830": {
+   "name": "Korgen",
+   "county": "18"
+  },
+  "1869": {
+   "name": "Langenes",
+   "county": "18"
+  },
+  "1847": {
+   "name": "Leiranger",
+   "county": "18"
+  },
+  "1822": {
+   "name": "Leirfjord",
+   "county": "18"
+  },
+  "1834": {
+   "name": "Lurøy",
+   "county": "18"
+  },
+  "1851": {
+   "name": "Lødingen",
+   "county": "18"
+  },
+  "1837": {
+   "name": "Meløy",
+   "county": "18"
+  },
+  "1803": {
+   "name": "Mo",
+   "county": "18"
+  },
+  "1802": {
+   "name": "Mosjøen",
+   "county": "18"
+  },
+  "1858": {
+   "name": "Moskenes",
+   "county": "18"
+  },
+  "1805": {
+   "name": "Narvik",
+   "county": "18"
+  },
+  "1828": {
+   "name": "Nesna",
+   "county": "18"
+  },
+  "1833": {
+   "name": "Nord-Rana",
+   "county": "18"
+  },
+  "1846": {
+   "name": "Nordfold",
+   "county": "18"
+  },
+  "1819": {
+   "name": "Nordvik",
+   "county": "18"
+  },
+  "1836": {
+   "name": "Rødøy",
+   "county": "18"
+  },
+  "1856": {
+   "name": "Røst",
+   "county": "18"
+  },
+  "1840": {
+   "name": "Saltdal",
+   "county": "18"
+  },
+  "1842": {
+   "name": "Skjerstad",
+   "county": "18"
+  },
+  "1870": {
+   "name": "Sortland",
+   "county": "18"
+  },
+  "1821": {
+   "name": "Stamnes",
+   "county": "18"
+  },
+  "1848": {
+   "name": "Steigen",
+   "county": "18"
+  },
+  "1806": {
+   "name": "Svolvær",
+   "county": "18"
+  },
+  "1812": {
+   "name": "Sømna",
+   "county": "18"
+  },
+  "1831": {
+   "name": "Sør-Rana",
+   "county": "18"
+  },
+  "1845": {
+   "name": "Sørfold",
+   "county": "18"
+  },
+  "1852": {
+   "name": "Tjeldsund",
+   "county": "18"
+  },
+  "1817": {
+   "name": "Tjøtta",
+   "county": "18"
+  },
+  "1835": {
+   "name": "Træna",
+   "county": "18"
+  },
+  "1850": {
+   "name": "Tysfjord",
+   "county": "18"
+  },
+  "1863": {
+   "name": "Valberg",
+   "county": "18"
+  },
+  "1824": {
+   "name": "Vefsn",
+   "county": "18"
+  },
+  "1815": {
+   "name": "Vega",
+   "county": "18"
+  },
+  "1813": {
+   "name": "Velfjord",
+   "county": "18"
+  },
+  "1816": {
+   "name": "Vevelstad",
+   "county": "18"
+  },
+  "1857": {
+   "name": "Værøy",
+   "county": "18"
+  },
+  "1865": {
+   "name": "Vågan",
+   "county": "18"
+  },
+  "1868": {
+   "name": "Øksnes",
+   "county": "18"
+  },
+  "1916": {
+   "name": "Andørja",
+   "county": "19"
+  },
+  "1918": {
+   "name": "Astafjord",
+   "county": "19"
+  },
+  "1933": {
+   "name": "Balsfjord",
+   "county": "19"
+  },
+  "1922": {
+   "name": "Bardu",
+   "county": "19"
+  },
+  "1929": {
+   "name": "Berg",
+   "county": "19"
+  },
+  "1915": {
+   "name": "Bjarkøy",
+   "county": "19"
+  },
+  "1926": {
+   "name": "Dyrøy",
+   "county": "19"
+  },
+  "1919": {
+   "name": "Gratangen",
+   "county": "19"
+  },
+  "1901": {
+   "name": "Harstad",
+   "county": "19"
+  },
+  "1935": {
+   "name": "Helgøy",
+   "county": "19"
+  },
+  "1930": {
+   "name": "Hillesøy",
+   "county": "19"
+  },
+  "1917": {
+   "name": "Ibestad",
+   "county": "19"
+  },
+  "1936": {
+   "name": "Karlsøy",
+   "county": "19"
+  },
+  "1911": {
+   "name": "Kvæfjord",
+   "county": "19"
+  },
+  "1943": {
+   "name": "Kvænangen",
+   "county": "19"
+  },
+  "1940": {
+   "name": "Kåfjord",
+   "county": "19"
+  },
+  "1920": {
+   "name": "Lavangen",
+   "county": "19"
+  },
+  "1931": {
+   "name": "Lenvik",
+   "county": "19"
+  },
+  "1938": {
+   "name": "Lyngen",
+   "county": "19"
+  },
+  "1932": {
+   "name": "Malangen",
+   "county": "19"
+  },
+  "1924": {
+   "name": "Målselv",
+   "county": "19"
+  },
+  "1942": {
+   "name": "Nordreisa",
+   "county": "19"
+  },
+  "1921": {
+   "name": "Salangen",
+   "county": "19"
+  },
+  "1912": {
+   "name": "Sandtorg",
+   "county": "19"
+  },
+  "1941": {
+   "name": "Skjervøy",
+   "county": "19"
+  },
+  "1913": {
+   "name": "Skånland",
+   "county": "19"
+  },
+  "1939": {
+   "name": "Storfjord",
+   "county": "19"
+  },
+  "1925": {
+   "name": "Sørreisa",
+   "county": "19"
+  },
+  "1928": {
+   "name": "Torsken",
+   "county": "19"
+  },
+  "1927": {
+   "name": "Tranøy",
+   "county": "19"
+  },
+  "1902": {
+   "name": "Tromsø",
+   "county": "19"
+  },
+  "1934": {
+   "name": "Tromsøysund",
+   "county": "19"
+  },
+  "1914": {
+   "name": "Trondenes",
+   "county": "19"
+  },
+  "1937": {
+   "name": "Ullsfjord",
+   "county": "19"
+  },
+  "1923": {
+   "name": "Øverbygd",
+   "county": "19"
+  },
+  "2012": {
+   "name": "Alta",
+   "county": "20"
+  },
+  "2024": {
+   "name": "Berlevåg",
+   "county": "20"
+  },
+  "2023": {
+   "name": "Gamvik",
+   "county": "20"
+  },
+  "2001": {
+   "name": "Hammerfest",
+   "county": "20"
+  },
+  "2015": {
+   "name": "Hasvik",
+   "county": "20"
+  },
+  "2021": {
+   "name": "Karasjok",
+   "county": "20"
+  },
+  "2011": {
+   "name": "Kautokeino",
+   "county": "20"
+  },
+  "2020": {
+   "name": "Kistrand",
+   "county": "20"
+  },
+  "2019": {
+   "name": "Kjelvik",
+   "county": "20"
+  },
+  "2017": {
+   "name": "Kvalsund",
+   "county": "20"
+  },
+  "2022": {
+   "name": "Lebesby",
+   "county": "20"
+  },
+  "2014": {
+   "name": "Loppa",
+   "county": "20"
+  },
+  "2018": {
+   "name": "Måsøy",
+   "county": "20"
+  },
+  "2027": {
+   "name": "Nesseby",
+   "county": "20"
+  },
+  "2029": {
+   "name": "Nord-Varanger",
+   "county": "20"
+  },
+  "2026": {
+   "name": "Polmak",
+   "county": "20"
+  },
+  "2030": {
+   "name": "Sør-Varanger",
+   "county": "20"
+  },
+  "2016": {
+   "name": "Sørøysund",
+   "county": "20"
+  },
+  "2013": {
+   "name": "Talvik",
+   "county": "20"
+  },
+  "2025": {
+   "name": "Tana",
+   "county": "20"
+  },
+  "2003": {
+   "name": "Vadsø",
+   "county": "20"
+  },
+  "2002": {
+   "name": "Vardø",
+   "county": "20"
+  },
+  "2028": {
+   "name": "Vardø landsogn",
+   "county": "20"
+  },
+  "2121": {
+   "name": "Bjørnøya",
+   "county": "21"
+  },
+  "2131": {
+   "name": "Hopen",
+   "county": "21"
+  },
+  "2111": {
+   "name": "Spitsbergen",
+   "county": "21"
+  },
+  "2211": {
+   "name": "Jan Mayen",
+   "county": "21"
+  },
+  "2321": {
+   "name": "Sokkelen nord for 62 gr. N",
+   "county": "23"
+  },
+  "2311": {
+   "name": "Sokkelen sør for 62 gr. N",
+   "county": "23"
+  },
+  "2411": {
+   "name": "Bouvetøya",
+   "county": "24"
+  },
+  "2431": {
+   "name": "Dronning Maud Land",
+   "county": "24"
+  },
+  "2421": {
+   "name": "Peter I's øy",
+   "county": "24"
+  },
+  "5702": {
+   "name": "Santos",
+   "county": "24"
+  },
+  "5801": {
+   "name": "Buenos Aires",
+   "county": "24"
+  },
+  "5902": {
+   "name": "San Fernando",
+   "county": "24"
+  },
+  "9156": {
+   "name": "Adams",
+   "county": "91"
+  },
+  "9162": {
+   "name": "Alpena",
+   "county": "91"
+  },
+  "9179": {
+   "name": "Alpena",
+   "county": "91"
+  },
+  "9103": {
+   "name": "Baltimore",
+   "county": "91"
+  },
+  "9180": {
+   "name": "Blue Earth",
+   "county": "91"
+  },
+  "9153": {
+   "name": "Chickasaw",
+   "county": "91"
+  },
+  "9178": {
+   "name": "Colman",
+   "county": "91"
+  },
+  "9158": {
+   "name": "Faribault",
+   "county": "91"
+  },
+  "9159": {
+   "name": "Fillmore",
+   "county": "91"
+  },
+  "9183": {
+   "name": "Flandreau",
+   "county": "91"
+  },
+  "9161": {
+   "name": "Grand Forks",
+   "county": "91"
+  },
+  "9108": {
+   "name": "Houston",
+   "county": "91"
+  },
+  "9111": {
+   "name": "Illinois (IL)",
+   "county": "91"
+  },
+  "9112": {
+   "name": "Iowa (IA)",
+   "county": "91"
+  },
+  "9113": {
+   "name": "Kansas (KS)",
+   "county": "91"
+  },
+  "9184": {
+   "name": "Lawler",
+   "county": "91"
+  },
+  "9177": {
+   "name": "Lone Rock",
+   "county": "91"
+  },
+  "9109": {
+   "name": "Miami",
+   "county": "91"
+  },
+  "9114": {
+   "name": "Michigan (MI)",
+   "county": "91"
+  },
+  "9115": {
+   "name": "Minnesota (MN)",
+   "county": "91"
+  },
+  "9151": {
+   "name": "Moody",
+   "county": "91"
+  },
+  "9185": {
+   "name": "Mount Morris",
+   "county": "91"
+  },
+  "9116": {
+   "name": "Nebraska (NE)",
+   "county": "91"
+  },
+  "9117": {
+   "name": "Nevada (NV)",
+   "county": "91"
+  },
+  "9118": {
+   "name": "New Hampshire (NH)",
+   "county": "91"
+  },
+  "9119": {
+   "name": "New Jersey (NJ)",
+   "county": "91"
+  },
+  "9120": {
+   "name": "New Mexico (NM)",
+   "county": "91"
+  },
+  "9104": {
+   "name": "New Orleans",
+   "county": "91"
+  },
+  "9101": {
+   "name": "New York City, NY",
+   "county": "91"
+  },
+  "9121": {
+   "name": "North Dakota (ND)",
+   "county": "91"
+  },
+  "9107": {
+   "name": "Pensacola",
+   "county": "91"
+  },
+  "9102": {
+   "name": "Philadelphia, PA",
+   "county": "91"
+  },
+  "9157": {
+   "name": "Pope",
+   "county": "91"
+  },
+  "9181": {
+   "name": "Reynolds",
+   "county": "91"
+  },
+  "9105": {
+   "name": "San Francisco",
+   "county": "91"
+  },
+  "9106": {
+   "name": "San Pedro",
+   "county": "91"
+  },
+  "9122": {
+   "name": "South Dakota (SD)",
+   "county": "91"
+  },
+  "9176": {
+   "name": "Stjordalen",
+   "county": "91"
+  },
+  "9123": {
+   "name": "Texas (TX)",
+   "county": "91"
+  },
+  "9155": {
+   "name": "Watonwan",
+   "county": "91"
+  },
+  "9154": {
+   "name": "Waushara",
+   "county": "91"
+  },
+  "9152": {
+   "name": "Winnebago",
+   "county": "91"
+  },
+  "9124": {
+   "name": "Wisconsin (WI)",
+   "county": "91"
+  },
+  "9160": {
+   "name": "Worth",
+   "county": "91"
+  },
+  "9201": {
+   "name": "Montreal",
+   "county": "92"
+  },
+  "9202": {
+   "name": "Quebec",
+   "county": "92"
+  },
+  "6102": {
+   "name": "Gøteborg",
+   "county": "61"
+  },
+  "6101": {
+   "name": "Stockholm",
+   "county": "61"
+  },
+  "6231": {
+   "name": "Eysturoy",
+   "county": "62"
+  },
+  "6211": {
+   "name": "Færøyene",
+   "county": "62"
+  },
+  "6201": {
+   "name": "København",
+   "county": "62"
+  },
+  "6501": {
+   "name": "Sydney",
+   "county": "62"
+  },
+  "6602": {
+   "name": "Antwerpen",
+   "county": "66"
+  },
+  "6601": {
+   "name": "Brüssel",
+   "county": "66"
+  },
+  "6702": {
+   "name": "Genova",
+   "county": "66"
+  },
+  "6802": {
+   "name": "Le Havre",
+   "county": "68"
+  },
+  "6803": {
+   "name": "Port de Bouc",
+   "county": "68"
+  },
+  "6901": {
+   "name": "Kobe",
+   "county": "69"
+  },
+  "6902": {
+   "name": "Moji",
+   "county": "69"
+  },
+  "7033": {
+   "name": "Anhwa",
+   "county": "70"
+  },
+  "7021": {
+   "name": "Changsha",
+   "county": "70"
+  },
+  "7001": {
+   "name": "Hong Kong",
+   "county": "70"
+  },
+  "7025": {
+   "name": "Ningsiang",
+   "county": "70"
+  },
+  "7002": {
+   "name": "Shanghai",
+   "county": "70"
+  },
+  "7027": {
+   "name": "Sinhwa",
+   "county": "70"
+  },
+  "7029": {
+   "name": "Taohwalun",
+   "county": "70"
+  },
+  "7031": {
+   "name": "Tungping",
+   "county": "70"
+  },
+  "7023": {
+   "name": "Yiyang",
+   "county": "70"
+  },
+  "7035": {
+   "name": "Yuankiang",
+   "county": "70"
+  },
+  "7201": {
+   "name": "Amsterdam",
+   "county": "72"
+  },
+  "7211": {
+   "name": "Aruba",
+   "county": "72"
+  },
+  "7212": {
+   "name": "Curacao",
+   "county": "72"
+  },
+  "7203": {
+   "name": "Europoort",
+   "county": "72"
+  },
+  "7202": {
+   "name": "Rotterdam",
+   "county": "72"
+  },
+  "7302": {
+   "name": "Lisnave",
+   "county": "72"
+  },
+  "7506": {
+   "name": "Albir Villajoyosa",
+   "county": "75"
+  },
+  "7505": {
+   "name": "Alicante",
+   "county": "75"
+  },
+  "7507": {
+   "name": "Fuengirola",
+   "county": "75"
+  },
+  "7501": {
+   "name": "Gran Canaria",
+   "county": "75"
+  },
+  "7502": {
+   "name": "Lanzarote",
+   "county": "75"
+  },
+  "7503": {
+   "name": "Tenerife",
+   "county": "75"
+  },
+  "7504": {
+   "name": "Torrevieja",
+   "county": "75"
+  },
+  "7606": {
+   "name": "Cardiff",
+   "county": "76"
+  },
+  "7608": {
+   "name": "Glasgow",
+   "county": "76"
+  },
+  "7607": {
+   "name": "Leith",
+   "county": "76"
+  },
+  "7602": {
+   "name": "Liverpool",
+   "county": "76"
+  },
+  "7601": {
+   "name": "London",
+   "county": "76"
+  },
+  "7603": {
+   "name": "Newcastle upon Tyne",
+   "county": "76"
+  },
+  "7604": {
+   "name": "North Shields",
+   "county": "76"
+  },
+  "7605": {
+   "name": "Southampton",
+   "county": "76"
+  },
+  "7609": {
+   "name": "Swansea",
+   "county": "76"
+  },
+  "7802": {
+   "name": "Durban",
+   "county": "78"
+  },
+  "7811": {
+   "name": "Kwa-Zulu Natal",
+   "county": "78"
+  },
+  "7803": {
+   "name": "Port Elizabeth",
+   "county": "78"
+  },
+  "7902": {
+   "name": "Pusan",
+   "county": "78"
+  },
+  "8101": {
+   "name": "Berlin",
+   "county": "81"
+  },
+  "8102": {
+   "name": "Hamburg",
+   "county": "81"
+  },
+  "8211": {
+   "name": "Northern Synod",
+   "county": "81"
+  },
+  "8401": {
+   "name": "Dubai",
+   "county": "81"
+  },
+  "8501": {
+   "name": "Singapore",
+   "county": "81"
+  },
+  "9999": {
+   "name": "Resten av verden",
+   "county": "81"
+  }
+ },
+ "counties": {
+  "01": "Østfold",
+  "02": "Akershus",
+  "04": "Hedmark",
+  "05": "Oppland",
+  "06": "Buskerud",
+  "07": "Vestfold",
+  "08": "Telemark",
+  "09": "Aust-Agder",
+  "10": "Vest-Agder",
+  "11": "Rogaland",
+  "12": "Hordaland",
+  "14": "Sogn og Fjordane",
+  "15": "Møre og Romsdal",
+  "16": "Sør-Trøndelag",
+  "17": "Nord-Trøndelag",
+  "18": "Nordland",
+  "19": "Troms",
+  "20": "Finnmark",
+  "21": "Svalbard",
+  "23": "Kontinentalsokkelen",
+  "24": "Antarktis",
+  "91": "U. S. A.",
+  "92": "Canada",
+  "61": "Sverige",
+  "62": "Danmark",
+  "66": "Belgia",
+  "68": "Frankrike",
+  "69": "Japan",
+  "70": "Kina",
+  "72": "Nederland",
+  "75": "Spania",
+  "76": "Storbritannia",
+  "78": "Sør-Afrika",
+  "81": "Tyskland"
+ },
+ "list_types": {
+  "dp": "Born and baptised",
+  "ub": "Illegitimate born and baptised",
+  "kf": "Confirmation",
+  "vi": "Married",
+  "gr": "Deceased and buried",
+  "if": "In-migrated",
+  "uf": "Out-migrated",
+  "fl": "In- and out-migrated",
+  "df": "Stillborn",
+  "tr": "Engaged",
+  "ly": "Wedding banns",
+  "va": "Vaccinated",
+  "im": "Joiners of the State Church",
+  "um": "Leavers of the State Church",
+  "in": "Introduced women",
+  "pa": "Public confessions (publice absolverede)",
+  "ko": "Communicants",
+  "fd": "Born of dissenters",
+  "vd": "Married dissenters",
+  "dd": "Dead dissenters",
+  "id": "Joiners (dissenters)",
+  "md": "Members (dissenters)",
+  "ud": "Leavers (dissenters)",
+  "bv": "Civil married",
+  "bl": "Civil wedding banns",
+  "fo": "Statement of best man",
+  "bi": "Other funeral service (bisettelse)",
+  "sj": "Parish members (sjeleregister)",
+  "kr": "Chronological list",
+  "dr": "Journal",
+  "jf": "Comparing index (jevnførelsesregister)",
+  "al": "Other list",
+  "xx": "not divided into lists",
+  "as": "title pages, index pages, printed pages etc."
+ }
+}

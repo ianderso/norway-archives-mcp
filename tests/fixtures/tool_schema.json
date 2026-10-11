@@ -1,0 +1,90 @@
+{
+  "cache_status": [],
+  "da_download_page": [
+    "destination",
+    "image",
+    "max_pixels",
+    "page_id",
+    "source_id"
+  ],
+  "da_get_record": [
+    "record",
+    "refresh"
+  ],
+  "da_get_source": [
+    "refresh",
+    "source_id"
+  ],
+  "da_list_pages": [
+    "count",
+    "refresh",
+    "section",
+    "source_id",
+    "start"
+  ],
+  "da_search_persons": [
+    "birth_place",
+    "birth_year_from",
+    "birth_year_to",
+    "domicile",
+    "event_year_from",
+    "event_year_to",
+    "first_name",
+    "last_name",
+    "list_type",
+    "municipality",
+    "name_variants",
+    "page",
+    "refresh"
+  ],
+  "da_search_sources": [
+    "list_type",
+    "municipality",
+    "page",
+    "query",
+    "refresh",
+    "year_from",
+    "year_to"
+  ],
+  "municipalities": [
+    "county",
+    "query"
+  ],
+  "nb_download_page": [
+    "destination",
+    "image",
+    "item_id",
+    "max_pixels",
+    "page",
+    "page_id"
+  ],
+  "nb_get_page": [
+    "image",
+    "include_text",
+    "item_id",
+    "page",
+    "page_id"
+  ],
+  "nb_search": [
+    "digitised_only",
+    "full_text",
+    "media_type",
+    "page",
+    "query",
+    "refresh",
+    "year_from",
+    "year_to"
+  ],
+  "nb_search_inside": [
+    "item_id",
+    "max_snippets",
+    "query"
+  ],
+  "place_names": [
+    "county",
+    "fuzzy",
+    "limit",
+    "municipality",
+    "name"
+  ]
+}

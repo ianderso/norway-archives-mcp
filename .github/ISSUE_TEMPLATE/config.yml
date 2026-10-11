@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Report a security vulnerability
+    url: https://github.com/ianderso/norway-archives-mcp/security/advisories/new
+    about: Privately, not in a public issue. See SECURITY.md.
+  - name: A problem with Digitalarkivet or its records
+    url: https://www.digitalarkivet.no/en/content/contact-da
+    about: This project does not operate Digitalarkivet. Outages and transcription errors go to Nasjonalarkivet.

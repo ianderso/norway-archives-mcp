@@ -1,0 +1,461 @@
+{
+ "_embedded": {
+  "items": [
+   {
+    "id": "54d8dc21154a2ca7a3e1cdda0e61bf89",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/54d8dc21154a2ca7a3e1cdda0e61bf89"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/54d8dc21154a2ca7a3e1cdda0e61bf89/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/54d8dc21154a2ca7a3e1cdda0e61bf89/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/54d8dc21154a2ca7a3e1cdda0e61bf89/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/54d8dc21154a2ca7a3e1cdda0e61bf89/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/54d8dc21154a2ca7a3e1cdda0e61bf89/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/54d8dc21154a2ca7a3e1cdda0e61bf89/wiki"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "isDigital": false,
+     "isPublicDomain": false,
+     "license": "copyrighted",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public"
+     ],
+     "creators": [
+      "Nissen, Gunnar Brun"
+     ],
+     "geographic": {
+      "city": "Theim"
+     },
+     "identifiers": {
+      "sesamId": "54d8dc21154a2ca7a3e1cdda0e61bf89",
+      "oaiId": "oai:norbok.nb.no:norbok/7603000nno"
+     },
+     "languages": [
+      {
+       "code": "nor"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "issued": "19760101",
+      "firstIndexTime": "2024-02-18T14:39:35.545Z",
+      "indexLastModified": "2017-03-29T00:56:27.958Z"
+     },
+     "pageCount": 0,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Røros kobberverk 1644-1974",
+     "titleInfos": [
+      {
+       "title": "Røros kobberverk 1644-1974"
+      }
+     ]
+    }
+   },
+   {
+    "id": "6687f1b0f160bf9aba4a49d5aa7be797",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/6687f1b0f160bf9aba4a49d5aa7be797"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/6687f1b0f160bf9aba4a49d5aa7be797/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/6687f1b0f160bf9aba4a49d5aa7be797/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/6687f1b0f160bf9aba4a49d5aa7be797/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/6687f1b0f160bf9aba4a49d5aa7be797/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/6687f1b0f160bf9aba4a49d5aa7be797/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/6687f1b0f160bf9aba4a49d5aa7be797/wiki"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "isDigital": false,
+     "isPublicDomain": false,
+     "license": "copyrighted",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public"
+     ],
+     "creators": [
+      "Guldal, Jon"
+     ],
+     "geographic": {
+      "city": "Røyse, Ringerike"
+     },
+     "identifiers": {
+      "sesamId": "6687f1b0f160bf9aba4a49d5aa7be797",
+      "oaiId": "oai:norbok.nb.no:norbok/4400925nno"
+     },
+     "languages": [
+      {
+       "code": "nor"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Villvoll skrivestuggu",
+      "issued": "19440101",
+      "firstIndexTime": "2024-02-18T17:21:28.541Z",
+      "indexLastModified": "2017-03-29T01:32:00.329Z"
+     },
+     "pageCount": 0,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Røros bergstad og kobberverk 300 år : 1644 - 27. aug. - 1944",
+     "titleInfos": [
+      {
+       "title": "Røros bergstad og kobberverk 300 år : 1644 - 27. aug. - 1944"
+      }
+     ]
+    }
+   },
+   {
+    "expand": "relatedItems",
+    "id": "111b9fc9c4755067da4d5c1085f1b469",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/111b9fc9c4755067da4d5c1085f1b469"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/111b9fc9c4755067da4d5c1085f1b469/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/111b9fc9c4755067da4d5c1085f1b469/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/111b9fc9c4755067da4d5c1085f1b469/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/111b9fc9c4755067da4d5c1085f1b469/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/111b9fc9c4755067da4d5c1085f1b469/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/111b9fc9c4755067da4d5c1085f1b469/wiki"
+     },
+     "relatedItems": {
+      "href": "https://api.nb.no:443/catalog/v1/items/111b9fc9c4755067da4d5c1085f1b469/relatedItems"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "NB",
+     "accessInfoLastModified": "2024-02-21T12:51:40.008Z",
+     "isDigital": false,
+     "isPublicDomain": false,
+     "license": "copyrighted",
+     "viewability": "NONE"
+    },
+    "metadata": {
+     "contentClasses": [
+      "restricted",
+      "COPYRIGHTED"
+     ],
+     "creators": [
+      "Arnesen, Rolf Tore",
+      "Tjomsland, Torulv"
+     ],
+     "geographic": {
+      "city": "Oslo"
+     },
+     "identifiers": {
+      "isbn10": [
+       "8257702714"
+      ],
+      "issn": [
+       "0803625x"
+      ],
+      "sesamId": "111b9fc9c4755067da4d5c1085f1b469",
+      "oaiId": "oai:nb.bibsys.no:998221813204702202"
+     },
+     "languages": [
+      {
+       "code": "nob"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Norsk inst.for vannforskning",
+      "issued": "1980",
+      "firstIndexTime": "2025-06-11T19:19:39.993Z",
+      "indexLastModified": "2025-06-12T04:15:16.624Z"
+     },
+     "pageCount": 0,
+     "series": [
+      "NIVA-rapport (trykt utg.)"
+     ],
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Røros kobberverk : vannforurensning fra gruver : O-78050",
+     "titleInfos": [
+      {
+       "title": "Røros kobberverk : vannforurensning fra gruver : O-78050"
+      }
+     ]
+    }
+   },
+   {
+    "id": "73132b1f152438b650d33aa55c5152f9",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/73132b1f152438b650d33aa55c5152f9"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/73132b1f152438b650d33aa55c5152f9/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/73132b1f152438b650d33aa55c5152f9/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/73132b1f152438b650d33aa55c5152f9/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/73132b1f152438b650d33aa55c5152f9/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/73132b1f152438b650d33aa55c5152f9/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/73132b1f152438b650d33aa55c5152f9/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2021032448502_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2021032448502_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2021032448502_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2021032448502_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "NORWAY",
+     "accessInfoLastModified": "2024-01-04T14:27:58.524Z",
+     "isDigital": true,
+     "isPublicDomain": false,
+     "legalDepositLoginText": "4 lisenser for Feide-brukere ved norske universitet og høyskoler.",
+     "license": "bokhylla",
+     "viewability": "NONE"
+    },
+    "metadata": {
+     "contentClasses": [
+      "legaldeposit",
+      "bokhylla",
+      "jp2",
+      "bokhyllalisens"
+     ],
+     "creators": [
+      "Kvikne, Olav",
+      "Rørosbok-komitéen",
+      "Røros kobberverk"
+     ],
+     "geographic": {
+      "city": "Røros"
+     },
+     "identifiers": {
+      "sesamId": "73132b1f152438b650d33aa55c5152f9",
+      "oaiId": "oai:nb.bibsys.no:997820116244702202",
+      "urn": "URN:NBN:no-nb_digibok_2021032448502"
+     },
+     "languages": [
+      {
+       "code": "nob"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Rørosbokkomiteen",
+      "issued": "1946",
+      "firstIndexTime": "2025-06-11T12:36:57.589Z",
+      "firstDigitalContentTime": "2021-04-29T08:04:55.211Z",
+      "indexLastModified": "2026-02-25T13:55:51.049Z"
+     },
+     "pageCount": 37,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Tre hundre års-festen ved Røros kobberverk søndag 2l. juli 1946",
+     "titleInfos": [
+      {
+       "title": "Tre hundre års-festen ved Røros kobberverk søndag 2l. juli 1946"
+      }
+     ]
+    }
+   },
+   {
+    "id": "b2401bd59cbdea40ef56dad7a0a7920f",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/b2401bd59cbdea40ef56dad7a0a7920f"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/b2401bd59cbdea40ef56dad7a0a7920f/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/b2401bd59cbdea40ef56dad7a0a7920f/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/b2401bd59cbdea40ef56dad7a0a7920f/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/b2401bd59cbdea40ef56dad7a0a7920f/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/b2401bd59cbdea40ef56dad7a0a7920f/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/b2401bd59cbdea40ef56dad7a0a7920f/wiki"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "isDigital": false,
+     "isPublicDomain": false,
+     "license": "copyrighted",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public"
+     ],
+     "creators": [
+      "Kvikne, Olav"
+     ],
+     "geographic": {
+      "city": "Oslo"
+     },
+     "identifiers": {
+      "sesamId": "b2401bd59cbdea40ef56dad7a0a7920f",
+      "oaiId": "oai:norbok.nb.no:norbok/4502267nno"
+     },
+     "languages": [
+      {
+       "code": "nor"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Aschehoug",
+      "issued": "19450101",
+      "firstIndexTime": "2024-02-16T15:05:12.458Z",
+      "indexLastModified": "2017-03-29T04:16:28.260Z"
+     },
+     "pageCount": 0,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk",
+      "Hiort, Peder"
+     ],
+     "title": "Teologen i bergmannskittel : Direktør Peder Hiort ved Røros kobberverk",
+     "titleInfos": [
+      {
+       "title": "Teologen i bergmannskittel : Direktør Peder Hiort ved Røros kobberverk"
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "_links": {
+  "self": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&searchType=FULL_TEXT_SEARCH&filter=mediatype:b%C3%B8ker&page=0&size=5"
+  },
+  "next": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&searchType=FULL_TEXT_SEARCH&filter=mediatype:b%C3%B8ker&page=1&size=5"
+  },
+  "last": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&searchType=FULL_TEXT_SEARCH&filter=mediatype:b%C3%B8ker&page=50&size=5"
+  }
+ },
+ "page": {
+  "number": 0,
+  "size": 5,
+  "totalElements": 4444,
+  "totalPages": 889
+ }
+}

@@ -1,0 +1,196 @@
+{
+ "expand": "metadata",
+ "id": "6c40d98813a942688b706a97e15dde22",
+ "_links": {
+  "self": {
+   "href": "https://api.nb.no:443/catalog/v1/items/6c40d98813a942688b706a97e15dde22"
+  },
+  "mods": {
+   "href": "https://api.nb.no:443/catalog/v1/metadata/6c40d98813a942688b706a97e15dde22/mods"
+  },
+  "dublincore": {
+   "href": "https://api.nb.no:443/catalog/v1/metadata/6c40d98813a942688b706a97e15dde22/dublincore"
+  },
+  "presentation": {
+   "href": "https://api.nb.no:443/catalog/v1/iiif/6c40d98813a942688b706a97e15dde22/manifest"
+  },
+  "enw": {
+   "href": "https://api.nb.no:443/catalog/v1/reference/6c40d98813a942688b706a97e15dde22/enw"
+  },
+  "ris": {
+   "href": "https://api.nb.no:443/catalog/v1/reference/6c40d98813a942688b706a97e15dde22/ris"
+  },
+  "wiki": {
+   "href": "https://api.nb.no:443/catalog/v1/reference/6c40d98813a942688b706a97e15dde22/wiki"
+  },
+  "thumbnail_custom": {
+   "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/{width},{height}/0/native.jpg",
+   "templated": true
+  },
+  "thumbnail_large": {
+   "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/0,200/0/native.jpg"
+  },
+  "thumbnail_medium": {
+   "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/0,128/0/native.jpg"
+  },
+  "thumbnail_small": {
+   "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/0,64/0/native.jpg"
+  }
+ },
+ "accessInfo": {
+  "accessAllowedFrom": "EVERYWHERE",
+  "accessInfoLastModified": "2018-10-09T11:36:41.751Z",
+  "actions": [
+   "download",
+   "text"
+  ],
+  "isDigital": true,
+  "isPublicDomain": true,
+  "license": "publicdomain",
+  "viewability": "ALL"
+ },
+ "metadata": {
+  "classification": {
+   "ddc": [
+    "622"
+   ],
+   "udc": [
+    "061.5(481)"
+   ]
+  },
+  "contentClasses": [
+   "public",
+   "legaldeposit",
+   "jp2",
+   "publicdomain"
+  ],
+  "genres": [
+   "tekst"
+  ],
+  "geographic": {
+   "placeString": "Trondhjem",
+   "city": "Norge - Trondheim"
+  },
+  "identifiers": {
+   "sesamId": "6c40d98813a942688b706a97e15dde22",
+   "oaiId": "oai:nb.bibsys.no:999306788424702202",
+   "urn": "URN:NBN:no-nb_digibok_2009031803022",
+   "otherid": [
+    "999306788424702201"
+   ]
+  },
+  "languages": [
+   {
+    "code": "nob"
+   }
+  ],
+  "literaryform": "Faglitteratur",
+  "mediaTypes": [
+   "bøker"
+  ],
+  "metadataClasses": [
+   "public"
+  ],
+  "note": {
+   "action": [
+    "Langtidslagret aa 2026 permanent"
+   ],
+   "reproduction": [
+    "Elektronisk reproduksjon [Norge] Nasjonalbiblioteket Digital 2009-04-20"
+   ],
+   "statementOfResponsibility": [
+    "af H. Dahle"
+   ]
+  },
+  "notes": [
+   "Trykt som manuskript",
+   "Elektronisk reproduksjon [Norge] Nasjonalbiblioteket Digital 2009-04-20",
+   "Langtidslagret aa 2026 permanent"
+  ],
+  "originInfo": {
+   "publisher": "[s.n.]",
+   "issued": "1894",
+   "issuedUntouched": "1894",
+   "firstIndexTime": "2025-06-12T00:20:32.109Z",
+   "firstDigitalContentTime": "2016-01-21T18:59:55.499Z",
+   "indexLastModified": "2026-09-05T11:20:59.636Z"
+  },
+  "pageCount": 561,
+  "people": [
+   {
+    "date": "1839-1914",
+    "identifier": "bibsys.no:authority:3050306",
+    "name": "Dahle, H.C.",
+    "roles": [
+     {
+      "name": "aut",
+      "description": "Forfatter"
+     }
+    ],
+    "usage": "primary"
+   }
+  ],
+  "physicalDescription": {
+   "form": [
+    "print",
+    "electronic resource",
+    "remote",
+    "text",
+    "regular print",
+    "uformidlet",
+    "bind"
+   ],
+   "extent": "IX, 543 s. 24 cm"
+  },
+  "recordInfo": {
+   "identifier": "999306788424702202",
+   "identifierSource": "nb.bibsys.no",
+   "created": "140729"
+  },
+  "statementOfResponsibility": [
+   "af H. Dahle"
+  ],
+  "subject": {
+   "topics": [
+    "Kobberverk",
+    "Bergverksdrift",
+    "Kobberverk",
+    "Historie",
+    "1600-tallet",
+    "1700-tallet",
+    "1800-tallet",
+    "1644 - 1894",
+    "Norge",
+    "røros",
+    "sør-trøndelag",
+    "Bedriftshistorie",
+    "Kopper",
+    "Gruvedrift"
+   ],
+   "corporates": [
+    {
+     "name": [
+      "Røros kobberverk"
+     ]
+    }
+   ],
+   "geographics": [
+    "Norge,Oslo",
+    "Norge",
+    "Norge,Trondheim",
+    "Røros"
+   ],
+   "genres": [
+    "Bedriftshistorie"
+   ]
+  },
+  "title": "Røros kobberværk : 1644-1894",
+  "titleInfos": [
+   {
+    "subTitle": "1644-1894",
+    "title": "Røros kobberværk"
+   }
+  ],
+  "typeOfResource": "text"
+ }
+}

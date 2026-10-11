@@ -1,0 +1,62 @@
+{
+ "metadata": {
+  "side": 1,
+  "sokeStreng": "sok=R%C3%B8ros&utkoordsys=4258&treffPerSide=5&side=1",
+  "totaltAntallTreff": 2,
+  "treffPerSide": 5,
+  "viserFra": 1,
+  "viserTil": 5
+ },
+ "navn": [
+  {
+   "fylker": [
+    {
+     "fylkesnavn": "Trøndelag - Trööndelage",
+     "fylkesnummer": "50"
+    }
+   ],
+   "kommuner": [
+    {
+     "kommunenavn": "Røros",
+     "kommunenummer": "5025"
+    }
+   ],
+   "navneobjekttype": "Tettsted",
+   "navnestatus": "hovednavn",
+   "representasjonspunkt": {
+    "nord": 62.57427,
+    "øst": 11.38339
+   },
+   "skrivemåte": "Røros",
+   "skrivemåtestatus": "godkjent og prioritert",
+   "språk": "Norsk",
+   "stedsnummer": 254556,
+   "stedstatus": "aktiv"
+  },
+  {
+   "fylker": [
+    {
+     "fylkesnavn": "Trøndelag - Trööndelage",
+     "fylkesnummer": "50"
+    }
+   ],
+   "kommuner": [
+    {
+     "kommunenavn": "Røros",
+     "kommunenummer": "5025"
+    }
+   ],
+   "navneobjekttype": "Flyplass",
+   "navnestatus": "undernavn",
+   "representasjonspunkt": {
+    "nord": 62.57654,
+    "øst": 11.35251
+   },
+   "skrivemåte": "Røros",
+   "skrivemåtestatus": "godkjent og prioritert",
+   "språk": "Norsk",
+   "stedsnummer": 878660,
+   "stedstatus": "aktiv"
+  }
+ ]
+}

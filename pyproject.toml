@@ -1,0 +1,80 @@
+[project]
+name = "norway-archives-mcp"
+dynamic = ["version"]
+description = "MCP server for Norway's National Archives (Digitalarkivet: church books, censuses, emigrant lists and their scans), the National Library's books and newspapers, and Kartverket's place names. Read-only, for genealogy and history."
+readme = "README.md"
+requires-python = ">=3.11"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Ian Anderson" }]
+keywords = ["mcp", "genealogy", "family-history", "norway", "digitalarkivet", "nasjonalbiblioteket", "church-books", "iiif", "archives", "research"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: End Users/Desktop",
+    "Intended Audience :: Science/Research",
+    "Natural Language :: Norwegian",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Sociology :: Genealogy",
+    "Topic :: Sociology :: History",
+]
+dependencies = [
+    # Capped below 3: server.compact_schemas reaches into the SDK's private
+    # tool registry, which a major release is free to change.
+    "mcp>=2.0.0,<3",
+    "httpx>=0.27,<1",
+    "pydantic>=2.6",
+    "python-dotenv>=1.0",
+    # Digitalarkivet publishes HTML pages, not an API. 4.12 is the first
+    # release whose select() supports the CSS this parser uses.
+    "beautifulsoup4>=4.12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.2",
+    "pytest-asyncio>=0.24",
+    "respx>=0.21",
+    # 0.9 is the oldest ruff whose formatter agrees with the committed style.
+    "ruff>=0.9",
+]
+
+[project.urls]
+Homepage = "https://github.com/ianderso/norway-archives-mcp"
+Repository = "https://github.com/ianderso/norway-archives-mcp"
+Issues = "https://github.com/ianderso/norway-archives-mcp/issues"
+Changelog = "https://github.com/ianderso/norway-archives-mcp/blob/main/CHANGELOG.md"
+
+[project.scripts]
+norway-archives-mcp = "norway_archives_mcp.__main__:main"
+
+[build-system]
+# 1.27 is the first hatchling to accept an SPDX string for `license`.
+requires = ["hatchling>=1.27"]
+build-backend = "hatchling.build"
+
+[tool.hatch.version]
+path = "src/norway_archives_mcp/__init__.py"
+
+[tool.hatch.build.targets.sdist]
+exclude = [".github"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/norway_archives_mcp"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+asyncio_mode = "auto"
+addopts = "-q"
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+ignore = ["B008", "UP042"]

@@ -1,0 +1,25 @@
+name: Feature request
+description: A research question the tools cannot answer yet, or a Norwegian source to add.
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Tools that write to a service, log in, or work around a bot check or an access rule will not be merged. See "Out of scope, by decision" in [docs/DESIGN.md](https://github.com/ianderso/norway-archives-mcp/blob/main/docs/DESIGN.md).
+  - type: textarea
+    id: problem
+    attributes:
+      label: The research problem
+      description: What you were trying to find or read, and where the current tools stopped you.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What would help
+      description: A new tool, a new parameter, a change to what a tool returns, or a source to reach.
+  - type: textarea
+    id: source
+    attributes:
+      label: Source to add
+      description: Its address, who runs it, whether it has an API, and what its terms say about automated use.

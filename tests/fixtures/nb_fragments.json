@@ -1,0 +1,109 @@
+{
+ "_links": {
+  "self": {
+   "href": "https://api.nb.no/catalog/v1/items/6c40d98813a942688b706a97e15dde22/contentfragments?q=Hiort&fragSize=200&fragments=5"
+  }
+ },
+ "contentFragments": [
+  {
+   "_links": {
+    "thumbnail_custom": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0061/full/{width},{height}/0/native.jpg",
+     "templated": true
+    },
+    "thumbnail_large": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0061/full/0,200/0/native.jpg"
+    },
+    "thumbnail_medium": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0061/full/0,128/0/native.jpg"
+    },
+    "thumbnail_small": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0061/full/0,64/0/native.jpg"
+    }
+   },
+   "pageNumber": "51",
+   "pageid": "URN:NBN:no-nb_digibok_2009031803022_0061",
+   "text": "... <em>Hiort</em> ..."
+  },
+  {
+   "_links": {
+    "thumbnail_custom": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0095/full/{width},{height}/0/native.jpg",
+     "templated": true
+    },
+    "thumbnail_large": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0095/full/0,200/0/native.jpg"
+    },
+    "thumbnail_medium": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0095/full/0,128/0/native.jpg"
+    },
+    "thumbnail_small": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0095/full/0,64/0/native.jpg"
+    }
+   },
+   "pageNumber": "85",
+   "pageid": "URN:NBN:no-nb_digibok_2009031803022_0095",
+   "text": "... <em>Hiort,</em> ..."
+  },
+  {
+   "_links": {
+    "thumbnail_custom": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0097/full/{width},{height}/0/native.jpg",
+     "templated": true
+    },
+    "thumbnail_large": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0097/full/0,200/0/native.jpg"
+    },
+    "thumbnail_medium": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0097/full/0,128/0/native.jpg"
+    },
+    "thumbnail_small": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0097/full/0,64/0/native.jpg"
+    }
+   },
+   "pageNumber": "87",
+   "pageid": "URN:NBN:no-nb_digibok_2009031803022_0097",
+   "text": "... <em>Hiort</em> ..."
+  },
+  {
+   "_links": {
+    "thumbnail_custom": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0099/full/{width},{height}/0/native.jpg",
+     "templated": true
+    },
+    "thumbnail_large": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0099/full/0,200/0/native.jpg"
+    },
+    "thumbnail_medium": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0099/full/0,128/0/native.jpg"
+    },
+    "thumbnail_small": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0099/full/0,64/0/native.jpg"
+    }
+   },
+   "pageNumber": "89",
+   "pageid": "URN:NBN:no-nb_digibok_2009031803022_0099",
+   "text": "... <em>Hiort</em> ..."
+  },
+  {
+   "_links": {
+    "thumbnail_custom": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0100/full/{width},{height}/0/native.jpg",
+     "templated": true
+    },
+    "thumbnail_large": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0100/full/0,200/0/native.jpg"
+    },
+    "thumbnail_medium": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0100/full/0,128/0/native.jpg"
+    },
+    "thumbnail_small": {
+     "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_0100/full/0,64/0/native.jpg"
+    }
+   },
+   "pageNumber": "90",
+   "pageid": "URN:NBN:no-nb_digibok_2009031803022_0100",
+   "text": "... <em>Hiort.</em> ..."
+  }
+ ]
+}

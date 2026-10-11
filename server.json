@@ -1,0 +1,53 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.ianderso/norway-archives-mcp",
+  "title": "Norway Archives",
+  "description": "Norway's church books, censuses and scans, National Library books, and place names.",
+  "repository": {
+    "url": "https://github.com/ianderso/norway-archives-mcp",
+    "source": "github"
+  },
+  "version": "0.1.0",
+  "packages": [
+    {
+      "registryType": "pypi",
+      "registryBaseUrl": "https://pypi.org",
+      "identifier": "norway-archives-mcp",
+      "version": "0.1.0",
+      "runtimeHint": "uvx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "NORWAY_ARCHIVES_CACHE_DIR",
+          "description": "Directory for the on-disk cache and the daily request count.",
+          "default": "~/.cache/norway-archives-mcp"
+        },
+        {
+          "name": "NORWAY_ARCHIVES_TIMEOUT",
+          "description": "HTTP timeout in seconds for one request. Image downloads get 120 s to read.",
+          "default": "30"
+        },
+        {
+          "name": "NORWAY_ARCHIVES_DA_INTERVAL",
+          "description": "Least seconds between two Digitalarkivet requests. Never below 5.",
+          "default": "5"
+        },
+        {
+          "name": "NORWAY_ARCHIVES_DA_DAILY_BUDGET",
+          "description": "Most live Digitalarkivet requests per UTC day. Cached answers are free.",
+          "default": "600"
+        },
+        {
+          "name": "NORWAY_ARCHIVES_CONTACT",
+          "description": "An email address or URL appended to the User-Agent, so an archive can reach whoever runs the server."
+        },
+        {
+          "name": "NORWAY_ARCHIVES_DOWNLOAD_DIR",
+          "description": "An existing folder. When set, the downloads save only inside it; needed to save under ~/Library, such as an iCloud Drive folder."
+        }
+      ]
+    }
+  ]
+}

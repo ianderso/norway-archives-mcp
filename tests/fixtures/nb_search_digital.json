@@ -1,0 +1,432 @@
+{
+ "_embedded": {
+  "items": [
+   {
+    "id": "de2da41e50acf226a2a5cdc223032a9e",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/de2da41e50acf226a2a5cdc223032a9e"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/de2da41e50acf226a2a5cdc223032a9e/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/de2da41e50acf226a2a5cdc223032a9e/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/de2da41e50acf226a2a5cdc223032a9e/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/de2da41e50acf226a2a5cdc223032a9e/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/de2da41e50acf226a2a5cdc223032a9e/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/de2da41e50acf226a2a5cdc223032a9e/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "accessInfoLastModified": "2024-02-05T13:03:52.529Z",
+     "isDigital": true,
+     "isPublicDomain": true,
+     "license": "publicdomain",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public",
+      "legaldeposit",
+      "jp2",
+      "publicdomain"
+     ],
+     "creators": [
+      "Hjort, Peder",
+      "Malling, P.T. (Peter Tidemand)",
+      "Aas, John",
+      "Krag, P.S."
+     ],
+     "geographic": {
+      "county": "Trøndelag",
+      "city": "Christiania"
+     },
+     "identifiers": {
+      "sesamId": "de2da41e50acf226a2a5cdc223032a9e",
+      "oaiId": "oai:nb.bibsys.no:999421297254702202",
+      "urn": "URN:NBN:no-nb_digibok_2018032048117"
+     },
+     "languages": [
+      {
+       "code": "dan"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Paa Udgiverens Forlag. I Kommission i P.T. Mallings Forlags-Boghandling",
+      "issued": "1846",
+      "firstIndexTime": "2025-05-27T09:00:15.729Z",
+      "firstDigitalContentTime": "2018-04-30T03:00:10.081Z",
+      "indexLastModified": "2026-02-25T16:19:59.394Z"
+     },
+     "pageCount": 377,
+     "subject": {
+      "geographics": [
+       "Norge,Trøndelag,Røros,Røros",
+       "Norge,Oslo",
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "P. Hjorts og P.S. Krags Efterretninger om Røraas Kobberverk og Præstegjeld",
+     "titleInfos": [
+      {
+       "title": "P. Hjorts og P.S. Krags Efterretninger om Røraas Kobberverk og Præstegjeld"
+      },
+      {
+       "title": "Efterretninger om Røraas Kobberverk og Præstegjeld",
+       "type": "alternative"
+      }
+     ]
+    }
+   },
+   {
+    "id": "2bf76adc20e3f80f3289c2faacf1ff24",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/2bf76adc20e3f80f3289c2faacf1ff24"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/2bf76adc20e3f80f3289c2faacf1ff24/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/2bf76adc20e3f80f3289c2faacf1ff24/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/2bf76adc20e3f80f3289c2faacf1ff24/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/2bf76adc20e3f80f3289c2faacf1ff24/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/2bf76adc20e3f80f3289c2faacf1ff24/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/2bf76adc20e3f80f3289c2faacf1ff24/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2016070108128_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2016070108128_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2016070108128_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2016070108128_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "accessInfoLastModified": "2025-07-01T13:03:25.432Z",
+     "isDigital": true,
+     "isPublicDomain": true,
+     "license": "publicdomain",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public",
+      "legaldeposit",
+      "jp2",
+      "publicdomain"
+     ],
+     "creators": [
+      "Prytz, A.R. (Anders Rasmussen)"
+     ],
+     "geographic": {
+      "city": "Røros"
+     },
+     "identifiers": {
+      "sesamId": "2bf76adc20e3f80f3289c2faacf1ff24",
+      "oaiId": "oai:nb.bibsys.no:998420448684702202",
+      "urn": "URN:NBN:no-nb_digibok_2016070108128"
+     },
+     "languages": [
+      {
+       "code": "nob"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "[s.n.]",
+      "issued": "1913",
+      "firstIndexTime": "2025-06-11T11:30:38.386Z",
+      "firstDigitalContentTime": "2016-07-29T03:00:20.438Z",
+      "indexLastModified": "2026-02-25T11:28:36.948Z"
+     },
+     "pageCount": 57,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "title": "Aarbok for Røros, 1644-1912",
+     "titleInfos": [
+      {
+       "title": "Aarbok for Røros, 1644-1912"
+      }
+     ]
+    }
+   },
+   {
+    "id": "6c40d98813a942688b706a97e15dde22",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/6c40d98813a942688b706a97e15dde22"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/6c40d98813a942688b706a97e15dde22/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/6c40d98813a942688b706a97e15dde22/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/6c40d98813a942688b706a97e15dde22/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/6c40d98813a942688b706a97e15dde22/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/6c40d98813a942688b706a97e15dde22/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/6c40d98813a942688b706a97e15dde22/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2009031803022_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "accessInfoLastModified": "2018-10-09T11:36:41.751Z",
+     "isDigital": true,
+     "isPublicDomain": true,
+     "license": "publicdomain",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public",
+      "legaldeposit",
+      "jp2",
+      "publicdomain"
+     ],
+     "creators": [
+      "Dahle, H.C."
+     ],
+     "geographic": {
+      "city": "Norge - Trondheim"
+     },
+     "identifiers": {
+      "sesamId": "6c40d98813a942688b706a97e15dde22",
+      "oaiId": "oai:nb.bibsys.no:999306788424702202",
+      "urn": "URN:NBN:no-nb_digibok_2009031803022"
+     },
+     "languages": [
+      {
+       "code": "nob"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "nameauthors": [
+      "Dahle, H.C."
+     ],
+     "originInfo": {
+      "publisher": "[s.n.]",
+      "issued": "1894",
+      "firstIndexTime": "2025-06-12T00:20:32.109Z",
+      "firstDigitalContentTime": "2016-01-21T18:59:55.499Z",
+      "indexLastModified": "2026-09-05T11:20:59.636Z"
+     },
+     "pageCount": 561,
+     "subject": {
+      "geographics": [
+       "Norge,Oslo",
+       "Norge",
+       "Norge,Trondheim",
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Røros kobberværk : 1644-1894",
+     "titleInfos": [
+      {
+       "title": "Røros kobberværk : 1644-1894"
+      }
+     ]
+    }
+   },
+   {
+    "id": "70d316cdbb77add4cab4d9b598a6b59a",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/70d316cdbb77add4cab4d9b598a6b59a"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/70d316cdbb77add4cab4d9b598a6b59a/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/70d316cdbb77add4cab4d9b598a6b59a/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/70d316cdbb77add4cab4d9b598a6b59a/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/70d316cdbb77add4cab4d9b598a6b59a/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/70d316cdbb77add4cab4d9b598a6b59a/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/70d316cdbb77add4cab4d9b598a6b59a/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017011248136_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017011248136_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017011248136_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017011248136_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "accessInfoLastModified": "2025-06-26T15:49:04.205Z",
+     "isDigital": true,
+     "isPublicDomain": true,
+     "license": "publicdomain",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public",
+      "legaldeposit",
+      "jp2",
+      "publicdomain"
+     ],
+     "creators": [
+      "Prytz, A.R. (Anders Rasmussen)"
+     ],
+     "geographic": {
+      "city": "Røros"
+     },
+     "identifiers": {
+      "sesamId": "70d316cdbb77add4cab4d9b598a6b59a",
+      "oaiId": "oai:nb.bibsys.no:999317395194702202",
+      "urn": "URN:NBN:no-nb_digibok_2017011248136"
+     },
+     "languages": [
+      {
+       "code": "nob"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Berg",
+      "issued": "1898",
+      "firstIndexTime": "2025-06-11T20:06:32.405Z",
+      "firstDigitalContentTime": "2017-01-28T22:26:25.585Z",
+      "indexLastModified": "2026-02-25T13:44:57.233Z"
+     },
+     "pageCount": 57,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Skancke"
+     ],
+     "title": "Stamtavle over Røros-familien Skancke",
+     "titleInfos": [
+      {
+       "title": "Stamtavle over Røros-familien Skancke"
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "_links": {
+  "self": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&digitalAccessibleOnly=true&filter=mediatype:b%C3%B8ker&filter=year:%5B1800%20TO%201920%5D&page=0&size=5"
+  },
+  "next": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&digitalAccessibleOnly=true&filter=mediatype:b%C3%B8ker&filter=year:%5B1800%20TO%201920%5D&page=1&size=5"
+  },
+  "last": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&digitalAccessibleOnly=true&filter=mediatype:b%C3%B8ker&filter=year:%5B1800%20TO%201920%5D&page=50&size=5"
+  }
+ },
+ "page": {
+  "number": 0,
+  "size": 5,
+  "totalElements": 339,
+  "totalPages": 68
+ }
+}

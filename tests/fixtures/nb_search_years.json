@@ -1,0 +1,308 @@
+{
+ "_embedded": {
+  "items": [
+   {
+    "id": "fccff599ca111eb6a4d61875355f000a",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/fccff599ca111eb6a4d61875355f000a"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/fccff599ca111eb6a4d61875355f000a/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/fccff599ca111eb6a4d61875355f000a/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/fccff599ca111eb6a4d61875355f000a/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/fccff599ca111eb6a4d61875355f000a/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/fccff599ca111eb6a4d61875355f000a/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/fccff599ca111eb6a4d61875355f000a/wiki"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "isDigital": false,
+     "isPublicDomain": false,
+     "license": "copyrighted",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public"
+     ],
+     "creators": [
+      "Dahle, H.C.",
+      "Røros Kobberverk"
+     ],
+     "geographic": {
+      "city": "Trondhjem"
+     },
+     "identifiers": {
+      "sesamId": "fccff599ca111eb6a4d61875355f000a",
+      "oaiId": "oai:norbok.nb.no:norbok/1740373nno"
+     },
+     "languages": [
+      {
+       "code": "nor"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "[s.n.]",
+      "issued": "18940101",
+      "firstIndexTime": "2024-02-17T15:29:58.840Z",
+      "indexLastModified": "2017-03-29T07:07:51.461Z"
+     },
+     "pageCount": 0,
+     "subject": {
+      "geographics": [
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Røros kobberværk : 1644-1894",
+     "titleInfos": [
+      {
+       "title": "Røros kobberværk : 1644-1894"
+      }
+     ]
+    }
+   },
+   {
+    "id": "72dc254fedcdc295dccdc612dc1e0c75",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/72dc254fedcdc295dccdc612dc1e0c75"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/72dc254fedcdc295dccdc612dc1e0c75/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/72dc254fedcdc295dccdc612dc1e0c75/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/72dc254fedcdc295dccdc612dc1e0c75/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/72dc254fedcdc295dccdc612dc1e0c75/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/72dc254fedcdc295dccdc612dc1e0c75/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/72dc254fedcdc295dccdc612dc1e0c75/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017032448033_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017032448033_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017032448033_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2017032448033_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "NORWAY",
+     "accessInfoLastModified": "2023-11-14T11:02:49.191Z",
+     "isDigital": true,
+     "isPublicDomain": false,
+     "legalDepositLoginText": "4 lisenser for Feide-brukere ved norske universitet og høyskoler.",
+     "license": "bokhylla",
+     "viewability": "NONE"
+    },
+    "metadata": {
+     "contentClasses": [
+      "legaldeposit",
+      "bokhylla",
+      "jp2",
+      "bokhyllalisens"
+     ],
+     "creators": [
+      "Thaulow, P. N."
+     ],
+     "geographic": {
+      "city": "Røros"
+     },
+     "identifiers": {
+      "sesamId": "72dc254fedcdc295dccdc612dc1e0c75",
+      "oaiId": "oai:nb.bibsys.no:990217037524702202",
+      "urn": "URN:NBN:no-nb_digibok_2017032448033"
+     },
+     "languages": [
+      {
+       "code": "nob"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "'Dovres' Trykkeri",
+      "issued": "1895",
+      "firstIndexTime": "2025-06-11T14:32:47.305Z",
+      "firstDigitalContentTime": "2017-05-04T22:11:39.286Z",
+      "indexLastModified": "2026-02-24T13:56:44.313Z"
+     },
+     "pageCount": 16,
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "Prædiken ved Røros Kobberverks 250 Aars Jubilæum den 18de August 1894",
+     "titleInfos": [
+      {
+       "title": "Prædiken ved Røros Kobberverks 250 Aars Jubilæum den 18de August 1894"
+      }
+     ]
+    }
+   },
+   {
+    "id": "de2da41e50acf226a2a5cdc223032a9e",
+    "_links": {
+     "self": {
+      "href": "https://api.nb.no:443/catalog/v1/items/de2da41e50acf226a2a5cdc223032a9e"
+     },
+     "mods": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/de2da41e50acf226a2a5cdc223032a9e/mods"
+     },
+     "dublincore": {
+      "href": "https://api.nb.no:443/catalog/v1/metadata/de2da41e50acf226a2a5cdc223032a9e/dublincore"
+     },
+     "presentation": {
+      "href": "https://api.nb.no:443/catalog/v1/iiif/de2da41e50acf226a2a5cdc223032a9e/manifest"
+     },
+     "enw": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/de2da41e50acf226a2a5cdc223032a9e/enw"
+     },
+     "ris": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/de2da41e50acf226a2a5cdc223032a9e/ris"
+     },
+     "wiki": {
+      "href": "https://api.nb.no:443/catalog/v1/reference/de2da41e50acf226a2a5cdc223032a9e/wiki"
+     },
+     "thumbnail_custom": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/{width},{height}/0/native.jpg",
+      "templated": true
+     },
+     "thumbnail_large": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/0,200/0/native.jpg"
+     },
+     "thumbnail_medium": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/0,128/0/native.jpg"
+     },
+     "thumbnail_small": {
+      "href": "https://www.nb.no/services/image/resolver/URN:NBN:no-nb_digibok_2018032048117_C1/full/0,64/0/native.jpg"
+     }
+    },
+    "accessInfo": {
+     "accessAllowedFrom": "EVERYWHERE",
+     "accessInfoLastModified": "2024-02-05T13:03:52.529Z",
+     "isDigital": true,
+     "isPublicDomain": true,
+     "license": "publicdomain",
+     "viewability": "ALL"
+    },
+    "metadata": {
+     "contentClasses": [
+      "public",
+      "legaldeposit",
+      "jp2",
+      "publicdomain"
+     ],
+     "creators": [
+      "Hjort, Peder",
+      "Malling, P.T. (Peter Tidemand)",
+      "Aas, John",
+      "Krag, P.S."
+     ],
+     "geographic": {
+      "county": "Trøndelag",
+      "city": "Christiania"
+     },
+     "identifiers": {
+      "sesamId": "de2da41e50acf226a2a5cdc223032a9e",
+      "oaiId": "oai:nb.bibsys.no:999421297254702202",
+      "urn": "URN:NBN:no-nb_digibok_2018032048117"
+     },
+     "languages": [
+      {
+       "code": "dan"
+      }
+     ],
+     "mediaTypes": [
+      "bøker"
+     ],
+     "metadataClasses": [
+      "public"
+     ],
+     "originInfo": {
+      "publisher": "Paa Udgiverens Forlag. I Kommission i P.T. Mallings Forlags-Boghandling",
+      "issued": "1846",
+      "firstIndexTime": "2025-05-27T09:00:15.729Z",
+      "firstDigitalContentTime": "2018-04-30T03:00:10.081Z",
+      "indexLastModified": "2026-02-25T16:19:59.394Z"
+     },
+     "pageCount": 377,
+     "subject": {
+      "geographics": [
+       "Norge,Trøndelag,Røros,Røros",
+       "Norge,Oslo",
+       "Røros"
+      ]
+     },
+     "subjectName": [
+      "Røros kobberverk"
+     ],
+     "title": "P. Hjorts og P.S. Krags Efterretninger om Røraas Kobberverk og Præstegjeld",
+     "titleInfos": [
+      {
+       "title": "P. Hjorts og P.S. Krags Efterretninger om Røraas Kobberverk og Præstegjeld"
+      },
+      {
+       "title": "Efterretninger om Røraas Kobberverk og Præstegjeld",
+       "type": "alternative"
+      }
+     ]
+    }
+   }
+  ]
+ },
+ "_links": {
+  "self": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&filter=mediatype:b%C3%B8ker&filter=date:%5B18000101%20TO%2019001231%5D&page=0&size=3"
+  },
+  "next": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&filter=mediatype:b%C3%B8ker&filter=date:%5B18000101%20TO%2019001231%5D&page=1&size=3"
+  },
+  "last": {
+   "href": "https://api.nb.no/catalog/v1/items?q=R%C3%B8ros%20kobberverk&filter=mediatype:b%C3%B8ker&filter=date:%5B18000101%20TO%2019001231%5D&page=50&size=3"
+  }
+ },
+ "page": {
+  "number": 0,
+  "size": 3,
+  "totalElements": 209,
+  "totalPages": 70
+ }
+}
